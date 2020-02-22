@@ -54,6 +54,46 @@ How to move forward
 	-Try other docking programs (some using ML) to get a better score
 
 	-Do any docking programs model covalent inhibition? very important!
+		-not as important :/
 
 	-Get ligands from other, homologous structures. Might be able to build a small dataset from that.
+
+
+Pubchem assay ID’s for SARS main protease
+search: (SARS coronavirus AND (73745819[ProteinTargetGI])) 
+73745819[ProteinTargetGI] - GI of protein target for 3C-like protease, partial [Infectious bronchitis virus] - 95.25% identity with the structure of 2019-nCov (insilico)
+2GTB, 4MDS, both pdb structures of SARS main protease, latter with non-covalent inhibitors
+
+AID’s for 73745819[ProteinTargetGI] - see file
+
+
+Trying to find more protease inhibitor data.
+
+Downloaded the fasta file of the nCov main protease.
+Blast search finds the exact sequence as a polyprotein (this protein is translated as a large polyprotein, then cleaves itself. There are very many matches and a lot of similarity between them - many different mutants of the SARS coronavirus.
+
+To find more Assays using similar proteins, might be better to search similarity on the PDB. Need to find Various other relevant proteases.
+
+Done:
+SARS - GI73745819
+HIV - GI75593047 - pol polyprotein
+Hep3 NSC - No specific protein target, just searched NS3 in protein target text. Also some west nile virus in there?
+
+Todo:
+MERS - not much available on that one
+
+Using NCBI PUG-REST
+https://pubchemdocs.ncbi.nlm.nih.gov/pug-rest-tutorial$_Toc458584429
+
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/assay/aid/XXXX/csv
+to get AID’s
+
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/substance/sid/XXXX/sdf
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/XXXX/sdf
+to get structures
+
+
+
+
+
 
