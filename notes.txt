@@ -92,6 +92,18 @@ https://pubchem.ncbi.nlm.nih.gov/rest/pug/substance/sid/XXXX/sdf
 https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/XXXX/sdf
 to get structures
 
+What can I add to this approach that is unique?
+	-Pairwise compound comparison?
+	-Dock all the structures then use docking score as the target?
+		using 2 machine and at 5 mins/compound, we’re looking at 4.34 days to dock 2500 structures.
+	-In-pocket design. Manually? 
+
+TODO going forward:
+	Get more Assay ID’s
+	Get Structures + format them into a good little database (medchem filters?)
+	Re-Dock the N3 ligand.
+	Download a generation framework and get it working.
+
 
 
 
