@@ -1,0 +1,3492 @@
+
+1. Inhibition of HIV1 protease L10I/L63P/A71V/G73S/I84V/L90M mutant
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 9 Active, 1 Activity <= 1 nM, 9 Activity <= 1 µM, 9 Tested
+AID: 274382
+
+2. Inhibition of HIV1 protease D30N/L63P/N88D mutant
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 9 Active, 9 Activity <= 1 nM, 9 Activity <= 1 µM, 9 Tested
+AID: 274381
+
+3. Inhibition of HIV1 protease L10I/G48V/I54V/L63P/V82A mutant
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 9 Active, 4 Activity <= 1 nM, 9 Activity <= 1 µM, 9 Tested
+AID: 274380
+
+4. Inhibition of wild type HIV1 protease Q7K mutant
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 42 Active, 29 Activity <= 1 nM, 42 Activity <= 1 µM, 42 Tested
+AID: 274379
+
+5. In vitro inhibition of recombinant HIV-1 protease expressed in Escherichia coli strain D1210
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 9 Tested
+AID: 162182
+
+6. Tested for inhibition of synthetic HIV-1 protease by using fluorometric assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 17 Active, 1 Activity <= 1 nM, 15 Activity <= 1 µM, 17 Tested
+AID: 160606
+
+7. Tested for inhibition of synthetic HIV-1 protease by using fluorometric assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 13 Active, 5 Activity <= 1 nM, 13 Activity <= 1 µM, 13 Tested
+AID: 82800
+
+8. Inhibitory constant against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 2 Activity <= 1 nM, 3 Activity <= 1 µM, 3 Tested
+AID: 160781
+
+9. Inhibition of HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 118 Active, 62 Activity <= 1 nM, 113 Activity <= 1 µM, 118 Tested
+AID: 160292
+
+10. Inhibition of virion associated RT activity (90% decrease) relative to untreated, infected control on MT2 cells infected with HIV-1 237288 strain
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 199087
+
+11. Inhibition of virion associated RT activity relative to untreated, infected control in PBMC cells infected with HIV-1 237288 strain
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 199086
+
+12. Inhibition of virion associated RT activity (90% decrease) relative to untreated, infected control on MT2 cells infected with HIV-2 strain (ROD)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 1 Activity <= 1 µM, 2 Tested
+AID: 199085
+
+13. Inhibition of virion associated RT activity (90% decrease) relative to untreated, infected control on MT2 cells infected with HIV-1 237288 strain
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 199084
+
+14. Inhibition of virion associated RT activity (90% decrease) relative to untreated, infected control in PBMC cells infected with HIV-1 237288 strain
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 199083
+
+15. Inhibition of virion associated RT activity (90% decrease) relative to untreated, infected control in MT2 cells infected with HIV-1 237288 strain
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 µM, 2 Tested
+AID: 199082
+
+16. Inhibition of virion associated RT activity relative to untreated, infected control in cord blood mononuclear cells (CBMC) infected with HIV -1 TC354 strain
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 4 Activity <= 1 µM, 4 Tested
+AID: 199081
+
+17. Inhibition of virion associated RT activity relative to untreated, infected control in PBMC cells infected with HIV-1 237288 strain
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 3 Activity <= 1 µM, 3 Tested
+AID: 199080
+
+18. Inhibition of virion associated RT activity relative to untreated, infected control in MT2 cells of HIV-1 237288 strain
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 199079
+
+19. Inhibition of virion associated RT activity relative to untreated, infected control in MT2 cells infected with HIV-2 strain (ROD)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 µM, 2 Tested
+AID: 199078
+
+20. Inhibition of virion associated RT activity relative to untreated, infected control in MT2 cells infected with HIV-1 237288 strain
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 3 Activity <= 1 µM, 3 Tested
+AID: 199077
+
+21. binding affinity towards HIV-1 Protease enzyme
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 7 Active, 2 Activity <= 1 nM, 7 Activity <= 1 µM, 8 Tested
+AID: 163484
+
+22. Ability to inhibit HIV protease purified and refolded from Escherichia coli inclusion bodies
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 20 Active, 16 Activity <= 1 µM, 20 Tested
+AID: 162708
+
+23. Inhibitory concentration against recombinant HIV-1 protease expressed in Escherichia coli was tested by HPLC based assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 6 Activity <= 1 µM, 6 Tested
+AID: 162529
+
+24. Inhibitory concentration against recombinant HIV-1 111B protease expressed from Escherichia coli was tested by HPLC based assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 162528
+
+25. Inhibitory concentration against recombinant HIV-1 protease expressed in Escherichia coli was tested by HPLC based assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 18 Active, 16 Activity <= 1 µM, 18 Tested
+AID: 162368
+
+26. binding affinity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 160619
+
+27. binding affinity against HIV-1 111B strain in protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 160618
+
+28. Binding affinity towards HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 1 Activity <= 1 nM, 6 Activity <= 1 µM, 6 Tested
+AID: 160285
+
+29. Binding affinity against HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 25 Active, 6 Activity <= 1 nM, 25 Activity <= 1 µM, 25 Tested
+AID: 160275
+
+30. Inhibitory potency against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 77 Active, 2 Activity <= 1 nM, 68 Activity <= 1 µM, 77 Tested
+AID: 160774
+
+31. Inhibition of recombinant HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 11 Active, 7 Activity <= 1 µM, 11 Tested
+AID: 160613
+
+32. Inhibitory concentration for antiviral activity against MT-4/HIV-1IIIB cell culture
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 13 Active, 13 Tested
+AID: 83110
+
+33. Inhibitory concentration for antiviral activity against MT-4/HIV-1IIIB cell culture.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 15 Active, 25 Tested
+AID: 83109
+
+34. Inhibition of HIV1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 3 Activity <= 1 nM, 4 Activity <= 1 µM, 4 Tested
+AID: 269303
+
+35. Inhibitory dose against human immunodeficiency virus 1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 242819
+
+36. Inhibitory concentration against human immunodeficiency virus-1 protease; (competitive inhibitor)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 242450
+
+37. Inhibitory concentration against human immunodeficiency virus-1 protease; (Dimerization inhibitor)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 242449
+
+38. Inhibitory concentration against human immunodeficiency virus-1 protease; (Dimerization inhibitor)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 239457
+
+39. Inhibitory concentration against human immunodeficiency virus -1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 21 Active, 20 Activity <= 1 µM, 25 Tested
+AID: 239084
+
+40. Inhibitory activity against human immunodeficiency virus 1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 11 Active, 3 Activity <= 1 nM, 11 Activity <= 1 µM, 11 Tested
+AID: 238198
+
+41. Inhibitory activity against HIV-1 protease was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 10 Active, 4 Activity <= 1 nM, 10 Activity <= 1 µM, 10 Tested
+AID: 162206
+
+42. Inhibitory activity against HIV-1 protease mutant was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 µM, 2 Tested
+AID: 162205
+
+43. Evaluated for the inhibition of HIV-1 Protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 18 Active, 2 Activity <= 1 µM, 19 Tested
+AID: 162539
+
+44. Inhibitory activity against HIV-1 Protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 1 Activity <= 1 µM, 2 Tested
+AID: 162197
+
+45. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 10 Active, 1 Activity <= 1 µM, 24 Tested
+AID: 162196
+
+46. HIV Protease inhibitory activity
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 12 Active, 12 Activity <= 1 µM, 12 Tested
+AID: 160447
+
+47. Binding affinity to inhibit the purified wild-type HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 17 Active, 16 Activity <= 1 nM, 17 Activity <= 1 µM, 17 Tested
+AID: 160316
+
+48. Competitive inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 2 Tested
+AID: 160783
+
+49. Apparent inhibition constant against recombinant HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 11 Active, 2 Activity <= 1 nM, 8 Activity <= 1 µM, 11 Tested
+AID: 160611
+
+50. In vitro inhibitory activity against biotinylated human HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 8 Active, 1 Activity <= 1 nM, 9 Activity <= 1 µM, 10 Tested
+AID: 160452
+
+51. Inhibitory concentration against accumulation of viral p24 antigen following infection of MT-4 cells
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 17 Active, 16 Activity <= 1 µM, 17 Tested
+AID: 105206
+
+52. Inhibition of dimerization of HIV1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 15 Active, 10 Activity <= 1 µM, 15 Tested
+AID: 281804
+
+53. Inhibition of dimerization of HIV1 protease MDR-HM mutant
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 266495
+
+54. Inhibition of dimerization of HIV1 protease G48V/L90M mutant
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 266494
+
+55. Inhibition of dimerization of HIV1 protease V82A mutant
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 266493
+
+56. Inhibition of dimerization of HIV1 protease 150V mutant
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 266492
+
+57. Inhibition of dimerization of HIV1 protease D30N mutant
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 266491
+
+58. Inhibition of wild type HIV1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Tested
+AID: 266487
+
+59. Inhibitory activity against HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 9 Active, 12 Activity <= 1 µM, 12 Tested
+AID: 263364
+
+60. Inhibitory activity against isolated wild-type HIV1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 9 Active, 2 Activity <= 1 nM, 10 Activity <= 1 µM, 10 Tested
+AID: 260390
+
+61. inhibitory concentration against HIV-1 protease from PI-resistant clinical isolate (V18)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 11 Active, 8 Activity <= 1 nM, 11 Activity <= 1 µM, 11 Tested
+AID: 242318
+
+62. Inhibitory concentration against human immunodeficiency virus (HIV) protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 µM, 2 Tested
+AID: 241986
+
+63. Inhibitory concentration against human immunodeficiency virus protease in fluorescence assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 241510
+
+64. Inhibitory concentration against HIV-1 protease (NL4-3)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 17 Active, 17 Activity <= 1 nM, 17 Activity <= 1 µM, 17 Tested
+AID: 241213
+
+65. Concentration required to in inhibit HIV-1 protease by 50%
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 µM, 2 Tested
+AID: 240880
+
+66. Binding affinity against human immunodeficiency virus (HIV) protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 31 Active, 2 Activity <= 1 nM, 43 Activity <= 1 µM, 43 Tested
+AID: 238959
+
+67. Inhibition constant for human immunodeficiency virus type 1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 27 Active, 16 Activity <= 1 nM, 25 Activity <= 1 µM, 27 Tested
+AID: 238682
+
+68. Potency to inhibit HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 11 Active, 2 Activity <= 1 nM, 11 Activity <= 1 µM, 11 Tested
+AID: 238257
+
+69. In vitro inhibitory activity against HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 7 Active, 7 Tested
+AID: 162184
+
+70. HIV-1 protease inhibition.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 37 Active, 19 Activity <= 1 nM, 36 Activity <= 1 µM, 37 Tested
+AID: 162030
+
+71. Dimerization inhibition against HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 5 Active, 4 Activity <= 1 µM, 5 Tested
+AID: 160627
+
+72. Competitive inhibition against HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 1 Activity <= 1 µM, 4 Tested
+AID: 160626
+
+73. Inhibitory concentration against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 23 Active, 4 Activity <= 1 nM, 23 Activity <= 1 µM, 23 Tested
+AID: 160481
+
+74. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 5 Active, 5 Activity <= 1 nM, 5 Activity <= 1 µM, 5 Tested
+AID: 160477
+
+75. Dissociation constant obtained by inhibition of mutant HIV-protease (V-18)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 4 Activity <= 1 µM, 4 Tested
+AID: 225564
+
+76. Dissociation constant obtained by inhibition of mutant HIV-protease (K-60)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 4 Activity <= 1 µM, 4 Tested
+AID: 225563
+
+77. Dissociation constant obtained by inhibition of mutant HIV-protease (A-44)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 4 Activity <= 1 µM, 4 Tested
+AID: 225562
+
+78. Dissociation constant obtained by inhibition of Wild-type protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 4 Activity <= 1 nM, 4 Activity <= 1 µM, 4 Tested
+AID: 219260
+
+79. Binding affinity for HIV-1 protease enzyme was measured by using fluorescent peptide substrate
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 47 Active, 7 Activity <= 1 nM, 46 Activity <= 1 µM, 48 Tested
+AID: 163483
+
+80. Evaluated for the inhibition of Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 162538
+
+81. Inhibition of HIV-1 protease in vitro.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 21 Active, 21 Activity <= 1 µM, 21 Tested
+AID: 162537
+
+82. Concentration required for 95%Inhibition of Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 162536
+
+83. Concentration required for 95% inhibition of Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 6 Activity <= 1 µM, 6 Tested
+AID: 162535
+
+84. compound was evaluated for the inhibition of HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 6 Tested
+AID: 162520
+
+85. Evaluated for the inhibition of Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 162066
+
+86. Inhibition of HIV-1 protease in vitro.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 21 Active, 17 Activity <= 1 nM, 21 Activity <= 1 µM, 21 Tested
+AID: 162065
+
+87. Concentration required for 50% inhibition of Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 7 Active, 6 Activity <= 1 nM, 7 Activity <= 1 µM, 7 Tested
+AID: 162061
+
+88. Inhibitory activity against HIV-1 protease expressed in Escherichia coli
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 12 Active, 8 Activity <= 1 nM, 12 Activity <= 1 µM, 12 Tested
+AID: 160470
+
+89. Inhibitory activity against HIV-1 protease in tandem assay.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 35 Active, 18 Activity <= 1 nM, 36 Activity <= 1 µM, 36 Tested
+AID: 160466
+
+90. Inhibition of recombinant HIV-1 protease (NY-5)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 14 Active, 5 Activity <= 1 nM, 14 Activity <= 1 µM, 14 Tested
+AID: 160444
+
+91. Compound was evaluated for its binding affinity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 160301
+
+92. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 40 Active, 9 Activity <= 1 nM, 42 Activity <= 1 µM, 42 Tested
+AID: 162349
+
+93. Inhibitory activity against HIV protease at pH 6.2
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 6 Activity <= 1 µM, 6 Tested
+AID: 162200
+
+94. Inhibitory activity against HIV protease at pH 4.7
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 8 Active, 8 Activity <= 1 µM, 8 Tested
+AID: 162199
+
+95. Inhibitory activity against HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 56 Active, 42 Activity <= 1 µM, 56 Tested
+AID: 162198
+
+96. Inhibition of HIV -1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 5 Active, 3 Activity <= 1 µM, 6 Tested
+AID: 162191
+
+97. Antiviral activity against wild type HXB2 virus protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 161888
+
+98. Inhibitory activity against HIV-1 protease enzyme
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 8 Active, 12 Activity <= 1 µM, 12 Tested
+AID: 161887
+
+99. Compound was tested for binding affinity against HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 161860
+
+100. Inhibitory activity was measured against wild-type HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 5 Activity <= 1 nM, 6 Activity <= 1 µM, 6 Tested
+AID: 161509
+
+101. Inhibitory activity was measured against wild-type HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 161507
+
+102. Inhibitory activity against HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 8 Active, 7 Activity <= 1 nM, 8 Activity <= 1 µM, 8 Tested
+AID: 160475
+
+103. Binding affinity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 25 Active, 2 Activity <= 1 nM, 20 Activity <= 1 µM, 25 Tested
+AID: 160314
+
+104. Compound was tested for binding affinity against HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 160311
+
+105. Binding affinity towards HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 2 Activity <= 1 µM, 3 Tested
+AID: 160288
+
+106. Antiviral activity against 460.6 clone of HXB2 mutant virus in their protease sequence
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 80891
+
+107. Antiviral activity against 460.2 clone of HXB2 mutant virus in their protease sequence
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 80890
+
+108. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 33 Active, 29 Activity <= 1 µM, 33 Tested
+AID: 162032
+
+109. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 36 Active, 6 Activity <= 1 µM, 43 Tested
+AID: 161872
+
+110. Inhibition of HIV-1 Protease activity
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 13 Active, 13 Activity <= 1 nM, 13 Activity <= 1 µM, 13 Tested
+AID: 161524
+
+111. Compound was tested for inhibition of HIV-1 protease (taken from ZhangPoorman plot)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 82948
+
+112. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Tested
+AID: 82947
+
+113. Compound was evaluated for in vitro inhibition of human immunodeficiency virus type 1 (HIV-1) Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 1 Activity <= 1 µM, 3 Tested
+AID: 162031
+
+114. Compound was evaluated for in vitro inhibition of human immunodeficiency virus type 1 (HIV-1) Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 8 Active, 4 Activity <= 1 nM, 8 Activity <= 1 µM, 8 Tested
+AID: 160296
+
+115. Compound was assayed for inhibition against HIV protease activity
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 7 Active, 1 Activity <= 1 nM, 5 Activity <= 1 µM, 7 Tested
+AID: 160293
+
+116. Compound was assayed for inhibition against HIV protease activity
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 82791
+
+117. Anti-HIV-1 activity against mutant HIV-1 in MT-4 cells (mutation selected with ritonavir)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 21 Active, 7 Activity <= 1 µM, 23 Tested
+AID: 104303
+
+118. Anti-HIV-1 activity against mutant HIV-1 in MT-4 cells (mutation selected with nelfinavir)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 22 Active, 16 Activity <= 1 µM, 23 Tested
+AID: 104302
+
+119. Anti-HIV-1 activity against mutant HIV-1 in MT-4 cells (mutation selected with compound 1)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 22 Active, 11 Activity <= 1 µM, 23 Tested
+AID: 104301
+
+120. Inhibition of HIV1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 14 Active, 12 Activity <= 1 µM, 16 Tested
+AID: 274708
+
+121. Inhibition of HIV1 protease I8 mutant
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 1 Activity <= 1 nM, 4 Activity <= 1 µM, 4 Tested
+AID: 270946
+
+122. Inhibition of wild type HIV1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 2 Activity <= 1 nM, 4 Activity <= 1 µM, 4 Tested
+AID: 270945
+
+123. Inhibition of HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 16 Active, 15 Activity <= 1 µM, 16 Tested
+AID: 270299
+
+124. Inhibition of HIV aspartyl protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 36 Active, 27 Activity <= 1 nM, 38 Activity <= 1 µM, 38 Tested
+AID: 267711
+
+125. Displacement of [3H]GW0385 from HIV1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 nM, 2 Activity <= 1 µM, 2 Tested
+AID: 263228
+
+126. Inhibitory activity against HIV1 protease expressed in Escherichia coli in a fluorometric assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 10 Active, 9 Activity <= 1 µM, 10 Tested
+AID: 257134
+
+127. Inhibitory activity against Human immunodeficiency virus-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 10 Active, 1 Activity <= 1 µM, 13 Tested
+AID: 241247
+
+128. Binding activity towards Human immunodeficiency virus-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 1 Activity <= 1 µM, 6 Tested
+AID: 238609
+
+129. Binding affinity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 2 Tested
+AID: 238117
+
+130. Tested for binding affinity against protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 162707
+
+131. The inhibitory concentration was evaluated for viral strains HIV-2 ROD using a HIV protease HPLC based assay.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 162518
+
+132. The inhibitory concentration was evaluated for viral strains HIV-1 IIIB using a HIV protease HPLC based assay.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 162517
+
+133. Activity of potent nonpeptidic inhibitor against protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 59 Active, 59 Activity <= 1 µM, 59 Tested
+AID: 162029
+
+134. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 10 Active, 3 Activity <= 1 nM, 10 Activity <= 1 µM, 10 Tested
+AID: 160782
+
+135. Tested for binding affinity against HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 17 Active, 11 Activity <= 1 nM, 17 Activity <= 1 µM, 17 Tested
+AID: 160605
+
+136. Inhibitory activity against HIV-1 protease (Escherichia coli)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 160469
+
+137. Inhibitory concentration against purified recombinant HIV-1 protease using fluorogenic substrate
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 12 Active, 12 Activity <= 1 µM, 12 Tested
+AID: 162370
+
+138. Inhibitory activity against HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 49 Active, 20 Activity <= 1 nM, 42 Activity <= 1 µM, 49 Tested
+AID: 160770
+
+139. Affinity against HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 24 Active, 22 Activity <= 1 nM, 24 Activity <= 1 µM, 24 Tested
+AID: 162710
+
+140. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 4 Activity <= 1 µM, 4 Tested
+AID: 160468
+
+141. Inhibition of HIV protease, measured by assaying the cleavage of a fluorescent peptide substrate using HPLC
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 26 Active, 22 Activity <= 1 nM, 26 Activity <= 1 µM, 26 Tested
+AID: 160458
+
+142. Binding affinity towards HIV protease was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 19 Active, 10 Activity <= 1 nM, 16 Activity <= 1 µM, 22 Tested
+AID: 160287
+
+143. Binding affinity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 104 Active, 16 Activity <= 1 nM, 107 Activity <= 1 µM, 107 Tested
+AID: 160271
+
+144. In vitro inhibition of HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 15 Active, 7 Activity <= 1 µM, 21 Tested
+AID: 162519
+
+145. In vitro inhibition of HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 33 Active, 16 Activity <= 1 nM, 31 Activity <= 1 µM, 33 Tested
+AID: 162194
+
+146. Inhibition of HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 12 Active, 4 Activity <= 1 nM, 11 Activity <= 1 µM, 12 Tested
+AID: 162058
+
+147. Inhibition of purified recombinant HIV-1 protease in a fluorogenic assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 78 Active, 33 Activity <= 1 nM, 77 Activity <= 1 µM, 78 Tested
+AID: 162051
+
+148. Inhibition of HIV-1 protease was determined in vitro
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 16 Active, 4 Activity <= 1 nM, 11 Activity <= 1 µM, 16 Tested
+AID: 160772
+
+149. Inhibition of HIV-1 protease in vitro.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 16 Active, 1 Activity <= 1 nM, 23 Activity <= 1 µM, 23 Tested
+AID: 160303
+
+150. Inhibitory activity against HIV protease in peptide cleavage assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 29 Active, 14 Activity <= 1 nM, 29 Activity <= 1 µM, 29 Tested
+AID: 162512
+
+151. Inhibitory activity against HIV Protease in peptide cleavage assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 16 Active, 4 Activity <= 1 nM, 15 Activity <= 1 µM, 16 Tested
+AID: 162511
+
+152. In vitro inhibition of HIV-Protease, using a peptide hydrolysis assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 2 Activity <= 1 µM, 7 Tested
+AID: 162044
+
+153. In vitro inhibition of HIV protease, using a peptide hydrolysis assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 8 Active, 2 Activity <= 1 nM, 3 Activity <= 1 µM, 8 Tested
+AID: 162043
+
+154. Inhibition constant was determined against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 1 Activity <= 1 µM, 5 Tested
+AID: 160457
+
+155. In vitro inhibition of HIV-Protease, using a peptide hydrolysis assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 160310
+
+156. Binding affinity to HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 27 Active, 8 Activity <= 1 nM, 27 Activity <= 1 µM, 27 Tested
+AID: 160304
+
+157. Inhibitory activity against HIV-1 Protease from wild-type NL4-3 virus
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 6 Activity <= 1 nM, 6 Activity <= 1 µM, 6 Tested
+AID: 161871
+
+158. Inhibitory activity against HIV-1 Protease from PI-resistant HIV-1 (strain V-60C)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 2 Activity <= 1 nM, 6 Activity <= 1 µM, 6 Tested
+AID: 161870
+
+159. Inhibitory activity against HIV-1 Protease from PI-resistant HIV-1 (strain K-60C)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 4 Activity <= 1 nM, 6 Activity <= 1 µM, 6 Tested
+AID: 161867
+
+160. Inhibitory concentration against human immunodeficiency virus (HIV) protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 5 Active, 6 Activity <= 1 µM, 6 Tested
+AID: 162369
+
+161. Inhibition of wild type HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 13 Active, 13 Activity <= 1 nM, 13 Activity <= 1 µM, 13 Tested
+AID: 162195
+
+162. Inhibition of HIV protease of HIV V-18C mutant strain
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 13 Active, 9 Activity <= 1 nM, 13 Activity <= 1 µM, 13 Tested
+AID: 162193
+
+163. Inhibition of HIV protease of HIV K-60C mutant strain
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 13 Active, 8 Activity <= 1 nM, 13 Activity <= 1 µM, 13 Tested
+AID: 162192
+
+164. Inhibitory concentration against wild-type human immunodeficiency virus (HIV-WT) protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 5 Active, 4 Activity <= 1 µM, 7 Tested
+AID: 83429
+
+165. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 8 Active, 3 Activity <= 1 nM, 7 Activity <= 1 µM, 8 Tested
+AID: 82796
+
+166. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 82766
+
+167. Compound was evaluated for the inhibitory activity towards HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 7 Active, 7 Activity <= 1 µM, 7 Tested
+AID: 162041
+
+168. Tested in vitro for HIV protease (PR) binding affinity
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 22 Active, 2 Activity <= 1 nM, 22 Activity <= 1 µM, 22 Tested
+AID: 162386
+
+169. Inhibitory activity against HIV-1 Protease was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 5 Tested
+AID: 162204
+
+170. Inhibition of HIV-1 protease by fluorogenic substrate assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 11 Active, 12 Tested
+AID: 162050
+
+171. Compound was tested for the inhibition of HIV-1 protease by assaying the cleavage of a fluorescent peptide using HPLC
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 9 Active, 4 Activity <= 1 µM, 9 Tested
+AID: 160443
+
+172. Compound was tested for binding affinity against HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 160312
+
+173. Inhibition of HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 12 Active, 9 Activity <= 1 nM, 12 Activity <= 1 µM, 13 Tested
+AID: 160300
+
+174. Compound was evaluated for binding affinity against HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 7 Active, 8 Activity <= 1 µM, 10 Tested
+AID: 160294
+
+175. Binding affinity was evaluated for competitive inhibition of HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 160291
+
+176. The compound was evaluated for inhibition of HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 8 Active, 7 Activity <= 1 nM, 8 Activity <= 1 µM, 8 Tested
+AID: 82915
+
+177. Compound was evaluated for inhibition of HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 82913
+
+178. Inhibitory activity was evaluated against human immunodeficiency virus type 1(HIV-1) protease at pH 4.7
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 nM, 2 Activity <= 1 µM, 2 Tested
+AID: 82797
+
+179. Inhibitory activity was evaluated against human immunodeficiency virus type 1(HIV-1) protease at pH 6.2
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 7 Active, 2 Activity <= 1 nM, 7 Activity <= 1 µM, 7 Tested
+AID: 82773
+
+180. Inhibitory concentration against human immunodeficiency virus type 1(HIV-1) protease at pH 4.7
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 12 Active, 12 Activity <= 1 µM, 12 Tested
+AID: 82772
+
+181. Antiviral activity potency was assessed by measuring effect on the accumulation of viral RNA transcripts 3 days after infection of MT-2 cells with HIV-1RF
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 19 Active, 5 Activity <= 1 nM, 15 Activity <= 1 µM, 19 Tested
+AID: 244073
+
+182. Tested for inhibitor binding of wild-type HIV PR
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 nM, 2 Activity <= 1 µM, 2 Tested
+AID: 82946
+
+183. Tested for inhibitor binding of Val82Ala mutant of HIV PR
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 82945
+
+184. Tested for inhibitor binding of D25N/V82A mutant of HIV PR
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 82944
+
+185. In vitro inhibition of HIV-1.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 20 Active, 14 Activity <= 1 µM, 21 Tested
+AID: 162516
+
+186. Inhibitory concentration against drug-resistant HIV(V82F) mutant
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 83384
+
+187. Inhibitory concentration against TL3-resistant HIV(V771) mutant
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 83378
+
+188. Inhibitory concentration against TL3-resistant HIV(M461) mutant
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 83375
+
+189. Inhibitory concentration against TL3-resistant HIV(L63P) mutant
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 83372
+
+190. Inhibitory concentration against TL3-resistant HIV(L241) mutant
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 83369
+
+191. Inhibitory concentration against drug-resistant HIV(G48V) mutant
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 83366
+
+192. Inhibitory concentration against TL3-resistant HIV(F53L) mutant
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 83242
+
+193. Inhibitory concentration against human immunodeficiency virus-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 15 Active, 5 Activity <= 1 µM, 18 Tested
+AID: 241933
+
+194. Inhibitory concentration against HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 162540
+
+195. HIV Protease inhibitory activity
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 5 Activity <= 1 µM, 12 Tested
+AID: 162067
+
+196. Inhibitory activity against HIV-I protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 31 Active, 31 Activity <= 1 µM, 31 Tested
+AID: 160614
+
+197. Antiviral activity against HIV-I infected H9 cells
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 13 Active, 16 Tested
+AID: 78930
+
+198. Inhibitory activity against human immunodeficiency virus protease (HIVP) using protease inhibition assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 8 Active, 9 Activity <= 1 µM, 9 Tested
+AID: 82902
+
+199. Inhibition of wild type HIV1 recombinant aspartic protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 1 Activity <= 1 nM, 3 Activity <= 1 µM, 3 Tested
+AID: 320685
+
+200. Inhibition of HIV1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 14 Active, 1 Activity <= 1 µM, 15 Tested
+AID: 281802
+
+201. Inhibition of dimerization of HIV1 protease ANAM-11 mutant
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 266496
+
+202. Inhibition of wild type HIV1 protease dimerization
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 µM, 2 Tested
+AID: 266488
+
+203. Inhibition of HIV1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 22 Active, 22 Activity <= 1 µM, 22 Tested
+AID: 262351
+
+204. Binding affinity to HIV1 protease L90M
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 nM, 2 Activity <= 1 µM, 2 Tested
+AID: 260518
+
+205. Binding affinity to HIV1 protease I84V
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 µM, 2 Tested
+AID: 260517
+
+206. Binding affinity to HIV1 protease V82A
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 1 Activity <= 1 nM, 2 Activity <= 1 µM, 2 Tested
+AID: 260516
+
+207. Binding affinity to HIV1 protease I50V
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 µM, 2 Tested
+AID: 260515
+
+208. Binding affinity to HIV1 protease D30N
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 µM, 2 Tested
+AID: 260514
+
+209. Binding affinity to HIV1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 nM, 2 Activity <= 1 µM, 2 Tested
+AID: 260513
+
+210. Inhibitory activity against HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 15 Active, 15 Activity <= 1 nM, 15 Activity <= 1 µM, 15 Tested
+AID: 257496
+
+211. Inhibitory concentration against HIV-1 protease expressed in Escherichia coli upon incubation in pH 5.5 buffer containing Abz-Thr-Ile-p-nitrophenylalanine-Phe-Gln-Arg-NH2
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 7 Active, 4 Activity <= 1 µM, 9 Tested
+AID: 255105
+
+212. Binding affinity for HIV-1 protease expressed in Escherichia coli upon incubation in pH 5.5 buffer containing Abz-Thr-Ile-p-nitrophenylalanine-Phe-Gln-Arg-NH2
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 8 Active, 1 Activity <= 1 nM, 4 Activity <= 1 µM, 10 Tested
+AID: 254530
+
+213. Antiviral activity against HIV protease in absence of human serum
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 246061
+
+214. Antiviral activity against HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 246029
+
+215. Inhibitory concentration against human immunodeficiency virus 1 protease in MT-4 cells
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 4 Activity <= 1 µM, 4 Tested
+AID: 241288
+
+216. Potency to inhibit HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 19 Active, 16 Activity <= 1 nM, 19 Activity <= 1 µM, 19 Tested
+AID: 238258
+
+217. Inhibition constant for HIV aspartyl protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 38 Active, 40 Activity <= 1 µM, 40 Tested
+AID: 238237
+
+218. Inhibition constant against HIV Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 17 Active, 16 Activity <= 1 nM, 17 Activity <= 1 µM, 17 Tested
+AID: 238230
+
+219. Inhibition constant against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 23 Active, 16 Activity <= 1 nM, 23 Activity <= 1 µM, 23 Tested
+AID: 238179
+
+220. Tested for inhibition of HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 2 Activity <= 1 nM, 3 Activity <= 1 µM, 3 Tested
+AID: 238177
+
+221. Binding affinity for human immunodeficiency virus type 1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 26 Active, 5 Activity <= 1 nM, 24 Activity <= 1 µM, 27 Tested
+AID: 238043
+
+222. Inhibitory activity against HIV-I protease was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 162356
+
+223. Inhibitory activity against HIV-I protease was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 1 Activity <= 1 nM, 2 Activity <= 1 µM, 2 Tested
+AID: 160479
+
+224. Equilibrium constant for the interaction between inhibitor and HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 38 Active, 4 Activity <= 1 nM, 34 Activity <= 1 µM, 39 Tested
+AID: 162706
+
+225. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 36 Active, 2 Activity <= 1 nM, 36 Activity <= 1 µM, 36 Tested
+AID: 162202
+
+226. Concentration required to inhibit HIV-1 protease cleavage by 50%.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 5 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 5 Tested
+AID: 162064
+
+227. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 60 Active, 29 Activity <= 1 nM, 60 Activity <= 1 µM, 60 Tested
+AID: 160776
+
+228. Inhibitory activity against HIV protease expressed in Escherichia coli
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 12 Active, 5 Activity <= 1 nM, 12 Activity <= 1 µM, 12 Tested
+AID: 160462
+
+229. Inhibition constant against HIV-1 Protease (Remeasured value)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 5 Active, 2 Activity <= 1 nM, 5 Activity <= 1 µM, 5 Tested
+AID: 160456
+
+230. Inhibition constant against HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 45 Active, 16 Activity <= 1 nM, 41 Activity <= 1 µM, 52 Tested
+AID: 160455
+
+231. inhibitory activity against purified HIV-1 protease in a standardized spectrophotometric assay expressed in Escherichia coli
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 1 Activity <= 1 µM, 2 Tested
+AID: 162521
+
+232. Inhibition of human immunodeficiency virus type 1 (HIV-1) protease enzyme.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 36 Active, 15 Activity <= 1 nM, 33 Activity <= 1 µM, 36 Tested
+AID: 160775
+
+233. Inhibitory activity against HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 32 Active, 16 Activity <= 1 nM, 31 Activity <= 1 µM, 32 Tested
+AID: 160771
+
+234. Inhibitory activity against purified HIV-1 protease expressed in Escherichia coli in sensitive fluorometric assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 11 Active, 3 Activity <= 1 nM, 8 Activity <= 1 µM, 11 Tested
+AID: 160620
+
+235. Inhibitory activity against HIV-1 Protease expressed in Escherichia coli
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 7 Active, 7 Activity <= 1 µM, 7 Tested
+AID: 160465
+
+236. Compound was tested for binding affinity against HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 9 Active, 5 Activity <= 1 µM, 9 Tested
+AID: 160315
+
+237. Inhibition of HIV-1 protease in a cell culture assay using HIV-1 IIIB infected H9 cells.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 28 Active, 18 Activity <= 1 µM, 32 Tested
+AID: 78951
+
+238. Inhibition of HIV-1 protease in a cell culture assay using HIV-1 IIIB infected H9 cells.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 28 Active, 25 Activity <= 1 µM, 32 Tested
+AID: 78939
+
+239. Ability to inhibit purified recombinant HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 162709
+
+240. Inhibitory activity against HIV-1 protease cleavage of [V-S-Q-N-(beta-naphthylalanine)-P-I-V)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 30 Active, 30 Activity <= 1 µM, 30 Tested
+AID: 162357
+
+241. In vivo antiviral activity (IC50) against HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 31 Active, 31 Activity <= 1 µM, 32 Tested
+AID: 162053
+
+242. Ability to inhibit purified recombinant HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 17 Active, 14 Activity <= 1 µM, 18 Tested
+AID: 162027
+
+243. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 67 Active, 13 Activity <= 1 nM, 61 Activity <= 1 µM, 67 Tested
+AID: 161876
+
+244. Inhibitory activity against HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 47 Active, 6 Activity <= 1 nM, 42 Activity <= 1 µM, 47 Tested
+AID: 160473
+
+245. Compound was tested for binding affinity against HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 24 Active, 18 Activity <= 1 nM, 24 Activity <= 1 µM, 24 Tested
+AID: 160313
+
+246. Binding affinity against HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 25 Active, 6 Activity <= 1 nM, 21 Activity <= 1 µM, 25 Tested
+AID: 160280
+
+247. Binding affinity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 7 Active, 2 Activity <= 1 nM, 7 Activity <= 1 µM, 7 Tested
+AID: 160270
+
+248. Binding affinity against HIV -1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 4 Activity <= 1 µM, 6 Tested
+AID: 162711
+
+249. Evaluated for the inhibition of HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 19 Active, 12 Activity <= 1 nM, 19 Activity <= 1 µM, 19 Tested
+AID: 162036
+
+250. Inhibitory activity against HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 30 Active, 26 Activity <= 1 µM, 30 Tested
+AID: 160773
+
+251. Tested for inhibitory concentration against HIV-1 protease in experiment 2
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 162381
+
+252. Tested for inhibitory concentration against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 19 Active, 13 Activity <= 1 nM, 19 Activity <= 1 µM, 19 Tested
+AID: 162380
+
+253. In vitro enzyme inhibitory activity against HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 162181
+
+254. In vitro enzyme inhibitory activity against HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 20 Active, 16 Activity <= 1 nM, 20 Activity <= 1 µM, 20 Tested
+AID: 162180
+
+255. Inhibition of HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 39 Active, 33 Activity <= 1 nM, 39 Activity <= 1 µM, 40 Tested
+AID: 161728
+
+256. Inhibitory activity against HIV-1 protease (V-18C strain)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 1 Activity <= 1 nM, 3 Activity <= 1 µM, 3 Tested
+AID: 162355
+
+257. In vitro inhibition of HIV-1 protease (NL4-3 strain).
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 21 Active, 20 Activity <= 1 nM, 21 Activity <= 1 µM, 21 Tested
+AID: 162352
+
+258. Inhibitory activity against HIV-1 protease (K-60C strain)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 1 Activity <= 1 nM, 3 Activity <= 1 µM, 3 Tested
+AID: 162351
+
+259. Inhibitory activity of compound against HIV-1 protease in wild type NL4-3 virus
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 10 Active, 10 Activity <= 1 nM, 10 Activity <= 1 µM, 10 Tested
+AID: 162217
+
+260. Inhibitory activity of compound against HIV-1 protease in HIV-1 (V-18C) strain
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 10 Active, 5 Activity <= 1 nM, 10 Activity <= 1 µM, 10 Tested
+AID: 162216
+
+261. Inhibitory activity against HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 9 Active, 9 Activity <= 1 nM, 9 Activity <= 1 µM, 9 Tested
+AID: 162201
+
+262. Evaluated for inhibition of Protease from the crude plate mixture
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Tested
+AID: 161731
+
+263. Evaluated for inhibition of Protease after resynthesis and purification
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 3 Tested
+AID: 161730
+
+264. Evaluated for inhibition of Protease after CLND/MS correction from the crude mixture
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 3 Tested
+AID: 161729
+
+265. Inhibitory activity of compound against HIV-1 protease in HIV-1 (K-60C) strain
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 82764
+
+266. Inhibitory concentration required to inhibit cleavage of a substrate by thewild-type HIV-1 protease enzyme
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 223674
+
+267. Inhibitory concentration against wild-type HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 12 Active, 8 Activity <= 1 nM, 12 Activity <= 1 µM, 12 Tested
+AID: 162374
+
+268. Inhibitory concentration required to inhibit cleavage of a substrate by the wild-type HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 3 Activity <= 1 nM, 4 Activity <= 1 µM, 4 Tested
+AID: 162373
+
+269. In vitro inhibitory activity against wild type HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 15 Active, 5 Activity <= 1 nM, 15 Activity <= 1 µM, 15 Tested
+AID: 162188
+
+270. In vitro inhibitory activity against mutant HIV-1 (A-44)protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 15 Active, 1 Activity <= 1 nM, 15 Activity <= 1 µM, 15 Tested
+AID: 162187
+
+271. The compound was tested for its inhibition against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 2 Activity <= 1 nM, 5 Activity <= 1 µM, 6 Tested
+AID: 82803
+
+272. Inhibitory concentration required to inhibit cleavage of a substrate by the wild-type HIV-1 protease enzyme
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 82776
+
+273. Compound was tested for its inhibitory potency against human immunodeficiency virus -1 (HIV-1 protease); In house preparation
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 82624
+
+274. Compound was tested for its inhibitory potency against human immunodeficiency virus -1 (HIV-1 protease)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 17 Active, 1 Activity <= 1 nM, 23 Activity <= 1 µM, 23 Tested
+AID: 82623
+
+275. Inhibitory activity of compound against HIV-1 aspartyl protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 51 Active, 30 Activity <= 1 nM, 51 Activity <= 1 µM, 51 Tested
+AID: 39382
+
+276. Compound was evaluated for the inhibition of HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 10 Active, 7 Activity <= 1 µM, 10 Tested
+AID: 162037
+
+277. Inhibitory concentration of compound resulting in half-maximal inactivation of HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 160630
+
+278. Inhibitory activity against HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 3 Activity <= 1 nM, 3 Activity <= 1 µM, 3 Tested
+AID: 160461
+
+279. Compound was tested for inhibition of HIV-1 protease by a dissociative mechanism
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 82949
+
+280. In vitro inhibitory concentration to prevent cleavage of a substrate by the protease enzyme
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 1 Activity <= 1 nM, 3 Activity <= 1 µM, 3 Tested
+AID: 162186
+
+281. Compound was tested for 50% irreversible inhibition of HIV-1 protease; value ranges from 10-50
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 3 Activity <= 1 µM, 3 Tested
+AID: 162046
+
+282. Inhibitory activity against HIV-1 IIIB/CEM-SS protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 161890
+
+283. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 12 Active, 12 Activity <= 1 µM, 12 Tested
+AID: 160442
+
+284. Inhibitory activity against HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 27 Active, 21 Activity <= 1 nM, 27 Activity <= 1 µM, 27 Tested
+AID: 160441
+
+285. Binding affinity for HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 11 Active, 11 Activity <= 1 nM, 11 Activity <= 1 µM, 11 Tested
+AID: 160436
+
+286. Inhibition of human immunodeficiency virus (HIV) protease isolated enzyme assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 13 Active, 11 Activity <= 1 nM, 13 Activity <= 1 µM, 13 Tested
+AID: 160297
+
+287. Binding affinity against HIV-1 protease was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 2 Activity <= 1 µM, 8 Tested
+AID: 160278
+
+288. HIV protease inhibition.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 17 Active, 12 Activity <= 1 nM, 17 Activity <= 1 µM, 17 Tested
+AID: 82912
+
+289. Binding affinity to HIV-1 protease was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 24 Active, 1 Activity <= 1 nM, 23 Activity <= 1 µM, 24 Tested
+AID: 82790
+
+290. Inhibitory concentration against multi-PI resistant D545701 in MT-4 cell lines(fold range = 28)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 248117
+
+291. Inhibitory concentration against multi-PI resistant D545701 in MT-4 cell lines(fold range = 23)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 248116
+
+292. Inhibitory concentration against multi-PI resistant EP13 in MT-4 cell lines(fold range = 33)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 248049
+
+293. Inhibitory concentration against multi-PI resistant EP13 in MT-4 cell lines(fold range = 26)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 248048
+
+294. Inhibitory concentration against multi-PI resistant EP13 in MT-4 cell lines(fold range = 24)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 248047
+
+295. Inhibitory concentration against multi-PI resistant EP13 in MT-4 cell lines(fold range = 9)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 248032
+
+296. Inhibitory concentration against multi-PI resistant EP13 in MT-4 cell lines(fold range = 8)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 248031
+
+297. Inhibitory concentration against multi-PI resistant EP13 in MT-4 cell lines(fold range = 3)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 248030
+
+298. Anti-HIV-1 activity against Wild type virus in MT-4 cells
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 22 Active, 20 Activity <= 1 µM, 22 Tested
+AID: 104312
+
+299. Anti-HIV-1 activity against mutant HIV-1 in MT-4 cells (mutation selected with saquinavir)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 22 Active, 14 Activity <= 1 µM, 22 Tested
+AID: 104304
+
+300. concentration of compound required to inhibit 90% of RT production in HIV-1/MN-infected MT-2 cells.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 22 Active, 22 Activity <= 1 µM, 22 Tested
+AID: 106913
+
+301. Concentration required to inhibit 50% of RT production in HIV-1/MN-infected MT-2 cells.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 22 Active, 6 Activity <= 1 nM, 22 Activity <= 1 µM, 22 Tested
+AID: 106906
+
+302. Inhibitory activity against HIV PR in HIV-1 infected CEM-SS cell lines
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 1 Activity <= 1 µM, 7 Tested
+AID: 161861
+
+303. Inhibitory activity against HIV PR in HIV-1 infected CEM-SS cell lines
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 11 Tested
+AID: 161733
+
+304. In vitro inhibitory activity against HIV PR using cell viability assay at a clear dose response
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 2 Tested
+AID: 161732
+
+305. Tested for inhibitory concentration against spread of HIV-1 in MT-4 human T-lymphoid cells infected with IIIb isolate
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 12 Active, 13 Activity <= 1 µM, 13 Tested
+AID: 105394
+
+306. Tested in vitro for potential potency against PI-resistant HIV virus by A-44 mutant enzyme variant
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 3 Activity <= 1 nM, 4 Activity <= 1 µM, 4 Tested
+AID: 82778
+
+307. Compound was tested for its antiviral potency against human immunodeficiency virus type 1
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 81788
+
+308. Inhibitory activity against HIV-1 IIIB in CEM-SS infected cells (Experiment 1)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 82282
+
+309. Binding affinity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 nM, 2 Activity <= 1 µM, 2 Tested
+AID: 236270
+
+310. Inhibitory activity against HIV-1 protease (Escherichia coli)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 5 Active, 2 Activity <= 1 nM, 5 Activity <= 1 µM, 5 Tested
+AID: 160471
+
+311. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 42 Active, 41 Activity <= 1 nM, 42 Activity <= 1 µM, 42 Tested
+AID: 163487
+
+312. Binding affinity for HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 29 Active, 28 Activity <= 1 nM, 29 Activity <= 1 µM, 29 Tested
+AID: 163485
+
+313. Inhibition of HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 20 Active, 2 Activity <= 1 µM, 29 Tested
+AID: 162038
+
+314. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 16 Active, 1 Activity <= 1 nM, 16 Activity <= 1 µM, 16 Tested
+AID: 161862
+
+315. Inhibitory concentration against Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 7 Active, 7 Tested
+AID: 163481
+
+316. Inhibitory activity against HIV-1 Protease from PI-resistant HIV-1 (strain Q-18C)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 5 Active, 3 Activity <= 1 nM, 5 Activity <= 1 µM, 5 Tested
+AID: 161868
+
+317. Inhibitory concentration against drug-resistant HIV(V82F) mutant protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 3 Activity <= 1 µM, 3 Tested
+AID: 83385
+
+318. Inhibitory concentration against TL3-resistant HIV(V771) mutant protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 3 Activity <= 1 µM, 3 Tested
+AID: 83379
+
+319. Inhibitory concentration against TL3-resistant HIV(M461) mutant protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 3 Activity <= 1 µM, 3 Tested
+AID: 83376
+
+320. Inhibitory concentration against TL3-resistant HIV(L63P) mutant protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 3 Activity <= 1 µM, 3 Tested
+AID: 83373
+
+321. Inhibitory concentration against TL3-resistant HIV(L241) mutant protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 3 Activity <= 1 µM, 3 Tested
+AID: 83370
+
+322. Inhibitory concentration against drug-resistant HIV(G48V) mutant protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 3 Activity <= 1 µM, 3 Tested
+AID: 83367
+
+323. Inhibitory concentration against TL3-resistant HIV(F53L) mutant protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 3 Activity <= 1 µM, 3 Tested
+AID: 83243
+
+324. Inhibitory activity against HIV-1 Protease was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 82298
+
+325. Inhibition of HIV RNA synthesis in T-cell line
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 24 Active, 24 Activity <= 1 µM, 24 Tested
+AID: 210277
+
+326. Inhibitory concentration against TL3-resistant HIV(V82A) mutant
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 4 Activity <= 1 µM, 4 Tested
+AID: 83381
+
+327. The compound was tested for HIV-1 protease inhibitory activity against plasmid pET9c-PR expressing HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 9 Active, 9 Tested
+AID: 162509
+
+328. The compound was tested for HIV-1 protease inhibitory activity against plasmid pET9c-PR expressing HIV-1 protease. activity is expressed as Kid value.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 2 Activity <= 1 µM, 4 Tested
+AID: 160628
+
+329. Inhibitory activity against HIV1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 5 Active, 5 Activity <= 1 µM, 5 Tested
+AID: 257268
+
+330. Inhibitory concentration against HIV aspartyl protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 4 Tested
+AID: 241299
+
+331. Effective concentration required to inhibit human immunodeficiency virus 1 protease in MT-4 cells
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Tested
+AID: 240112
+
+332. Binding affinity towards human immunodeficiency virus type 1 protease determined using continuum electrostatics solvation
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 24 Active, 9 Activity <= 1 nM, 22 Activity <= 1 µM, 24 Tested
+AID: 239453
+
+333. Inhibition of HIV-1 protease by fluorometric assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 25 Active, 19 Activity <= 1 µM, 25 Tested
+AID: 160778
+
+334. Inhibition of recombinant HIV-1 protease measured by fluorometric assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 26 Active, 20 Activity <= 1 µM, 26 Tested
+AID: 160459
+
+335. Binding affinity against HIV-protease inhibitor.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 161874
+
+336. Binding affinity against HIV-protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 161873
+
+337. Inhibition constant of HIV protease inhibitors
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 83 Active, 37 Activity <= 1 nM, 78 Activity <= 1 µM, 83 Tested
+AID: 160454
+
+338. Binding affinity against HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 160272
+
+339. Compound was tested for inhibition of HIV protease in AZT Resistant HIV-1 clinical isolates in primary PBMC
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 162532
+
+340. Tested for inhibition of HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 10 Active, 6 Activity <= 1 µM, 11 Tested
+AID: 162531
+
+341. Inhibition concentration against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 8 Active, 5 Activity <= 1 µM, 8 Tested
+AID: 162189
+
+342. Concentration needed to inhibit HIV- protease activity by 50%.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 3 Activity <= 1 nM, 3 Activity <= 1 µM, 3 Tested
+AID: 162057
+
+343. In vitro inhibition activity against HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 24 Active, 24 Activity <= 1 µM, 24 Tested
+AID: 162054
+
+344. Compound was tested for inhibition of HIV protease triple mutant (Q7K/L33I/L63I)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 162049
+
+345. Tested for inhibition of HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 13 Active, 9 Activity <= 1 µM, 14 Tested
+AID: 162048
+
+346. Inhibition of HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 12 Active, 5 Activity <= 1 nM, 12 Activity <= 1 µM, 12 Tested
+AID: 162026
+
+347. Ability to inhibit HIV-1 protease was determined using spectrofluorimetric assay.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 7 Active, 6 Activity <= 1 µM, 7 Tested
+AID: 162025
+
+348. Ability to inhibit HIV-1 protease was determined using spectrofluorimetric assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 8 Active, 6 Activity <= 1 µM, 8 Tested
+AID: 162024
+
+349. In vivo for antiviral activity (ED90) against HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 30 Active, 29 Activity <= 1 µM, 30 Tested
+AID: 161897
+
+350. In vivo antiviral activity (IC50) against HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 30 Active, 30 Activity <= 1 µM, 30 Tested
+AID: 161892
+
+351. Cellular antiviral activity against HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 7 Active, 5 Activity <= 1 µM, 7 Tested
+AID: 161883
+
+352. Compound was tested for inhibition of HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 161508
+
+353. Inhibitory activity against HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 53 Active, 53 Activity <= 1 nM, 53 Activity <= 1 µM, 53 Tested
+AID: 160474
+
+354. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 5 Active, 1 Activity <= 1 nM, 5 Activity <= 1 µM, 5 Tested
+AID: 160467
+
+355. Compound was tested for inhibition of HIV-1 protease was assayed in infected MT-4 cells
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 4 Activity <= 1 µM, 4 Tested
+AID: 160439
+
+356. Compound was tested for inhibition of HIV protease triple mutant (Q7K/L33I/L63I)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 nM, 2 Activity <= 1 µM, 2 Tested
+AID: 160438
+
+357. Tested for inhibition of HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 15 Active, 8 Activity <= 1 nM, 15 Activity <= 1 µM, 15 Tested
+AID: 160437
+
+358. Binding affinity for HIV-1 protease was determined.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 5 Active, 5 Activity <= 1 µM, 5 Tested
+AID: 160284
+
+359. Binding affinity for HIV-1 protease was determined in vitro.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 160283
+
+360. Binding affinity for HIV-1 protease was determined in vitro
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 1 Activity <= 1 nM, 3 Activity <= 1 µM, 3 Tested
+AID: 160282
+
+361. Binding affinity for HIV-1 protease was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 5 Active, 1 Activity <= 1 nM, 4 Activity <= 1 µM, 5 Tested
+AID: 160281
+
+362. Binding affinity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 38 Active, 36 Activity <= 1 µM, 38 Tested
+AID: 160276
+
+363. Tested for inhibitory activity against HIV protease enzyme
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 1 Activity <= 1 nM, 3 Activity <= 1 µM, 3 Tested
+AID: 162377
+
+364. Tested against S2-binding site of HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 17 Active, 1 Activity <= 1 nM, 16 Activity <= 1 µM, 17 Tested
+AID: 162376
+
+365. In vitro inhibitory concentration against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 1 Activity <= 1 nM, 3 Activity <= 1 µM, 3 Tested
+AID: 162185
+
+366. Tested for the relative potency against HIV-1 protease in the cellular antiviral assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 1 Activity <= 1 µM, 3 Tested
+AID: 161886
+
+367. Tested for antiviral potency against HIV protease enzyme
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 3 Activity <= 1 µM, 3 Tested
+AID: 161882
+
+368. Tested for the binding affinity against HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 160612
+
+369. Tested for the HIV Protease inhibitory activity of the compound
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 µM, 2 Tested
+AID: 160610
+
+370. Inhibitory constant against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 45 Active, 43 Activity <= 1 µM, 46 Tested
+AID: 160482
+
+371. In vitro ability to inhibit HIV-protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 µM, 2 Tested
+AID: 160309
+
+372. Inhibition of HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 13 Active, 6 Activity <= 1 nM, 13 Activity <= 1 µM, 14 Tested
+AID: 163476
+
+373. Inhibitory concentration was evaluated to inhibit the 95% of HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 6 Activity <= 1 µM, 6 Tested
+AID: 163473
+
+374. The compound was tested for its affinity against HIV-1 protease in vitro
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 162514
+
+375. The compound was tested for its affinity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 12 Active, 5 Activity <= 1 nM, 12 Activity <= 1 µM, 13 Tested
+AID: 162513
+
+376. Inhibitory activity of the Compound was tested against HIV protease enzyme.(value reported by Roche group)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 5 Activity <= 1 µM, 6 Tested
+AID: 162348
+
+377. Inhibitory activity of the Compound was tested against HIV protease enzyme
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 162222
+
+378. Inhibitory activity of the Compound was tested against HIV protease enzyme.(value reported by Roche group)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 2 Activity <= 1 µM, 2 Tested
+AID: 162221
+
+379. Inhibitory activity of the Compound was tested against HIV protease enzyme.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 10 Active, 1 Activity <= 1 nM, 9 Activity <= 1 µM, 10 Tested
+AID: 162220
+
+380. Inhibitory activity of the Compound was tested against HIV protease enzyme (by Dixon analysis)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 162219
+
+381. Inhibitory activity of the Compound was tested against HIV protease enzyme
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 162218
+
+382. Inhibition of HIV-1 Protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 19 Active, 15 Activity <= 1 µM, 20 Tested
+AID: 162056
+
+383. Compounds were tested for their concentration to inhibit the HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 162055
+
+384. Inhibition of HIV-1 protease in 10% fetal calf serum(FCS)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 1 Activity <= 1 µM, 12 Tested
+AID: 162045
+
+385. Inhibition of HIV-1 protease in 5%DMSO
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 11 Active, 1 Activity <= 1 nM, 5 Activity <= 1 µM, 13 Tested
+AID: 162042
+
+386. Inhibitory concentration against HIV-1 protease in the absence of DMSO
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 3 Activity <= 1 µM, 3 Tested
+AID: 161866
+
+387. Concentration required to inhibit HIV-1 protease activity calculated from plots of % inhibition vs inhibitor concentration
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 1 Activity <= 1 µM, 5 Tested
+AID: 161865
+
+388. In vitro binding affinity against HIV protease was measured
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 nM, 2 Activity <= 1 µM, 2 Tested
+AID: 161383
+
+389. In vitro concentration required to inhibit 50% activity of HIV protease was measured (exp 2)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 µM, 2 Tested
+AID: 161382
+
+390. In vitro concentration required to inhibit 50% activity of HIV protease was measured
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 10 Active, 10 Activity <= 1 µM, 10 Tested
+AID: 161381
+
+391. Inhibition of HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 14 Active, 7 Activity <= 1 nM, 14 Activity <= 1 µM, 14 Tested
+AID: 161380
+
+392. Inhibition of HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 12 Active, 2 Activity <= 1 nM, 11 Activity <= 1 µM, 12 Tested
+AID: 161379
+
+393. The compound was tested for its affinity against HIV-1 protease; range 400-1400 nM
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 160617
+
+394. Binding affinity for HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 13 Active, 4 Activity <= 1 nM, 10 Activity <= 1 µM, 13 Tested
+AID: 160616
+
+395. Tested for inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 10 Active, 10 Activity <= 1 µM, 10 Tested
+AID: 160608
+
+396. Binding affinity against HIV protease enzyme.(by Dixon analysis)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 160290
+
+397. Binding affinity against HIV Protease enzyme.(by Dixon analysis)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 1 Activity <= 1 nM, 2 Activity <= 1 µM, 2 Tested
+AID: 160289
+
+398. Inhibitory concentration against HIV-1 protease in the absence of DMSO
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 82622
+
+399. Inhibitory activity against recombinant HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 nM, 2 Activity <= 1 µM, 2 Tested
+AID: 162210
+
+400. Inhibitory activity against recombinant HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 8 Active, 1 Activity <= 1 nM, 9 Activity <= 1 µM, 10 Tested
+AID: 162209
+
+401. Inhibition of HIV protease at pH 6.4, 37 degree C
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 13 Active, 2 Activity <= 1 nM, 8 Activity <= 1 µM, 13 Tested
+AID: 160464
+
+402. Inhibitory activity against HIV Protease was measured at pH 6.4 and 37 degrees C
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 2 Activity <= 1 µM, 4 Tested
+AID: 160460
+
+403. Inhibitory activity against HIV-1 protease (Q-60C strain)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 1 Activity <= 1 nM, 2 Activity <= 1 µM, 2 Tested
+AID: 162353
+
+404. Inhibitory activity of compound against HIV-1 protease in HIV-1 (Q-60C) strain
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 7 Active, 3 Activity <= 1 nM, 7 Activity <= 1 µM, 7 Tested
+AID: 162213
+
+405. Inhibitory activity of compound against HIV-1 protease in HIV-1 (K-60C) strain
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 8 Active, 3 Activity <= 1 nM, 8 Activity <= 1 µM, 8 Tested
+AID: 162211
+
+406. Inhibitory concentration against Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 9 Active, 1 Activity <= 1 µM, 23 Tested
+AID: 161737
+
+407. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 35 Active, 2 Activity <= 1 nM, 43 Activity <= 1 µM, 43 Tested
+AID: 160449
+
+408. Binding affinity against HIV-Protease was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 10 Active, 10 Activity <= 1 nM, 10 Activity <= 1 µM, 10 Tested
+AID: 160279
+
+409. Tested in vitro for the ability to inhibit cleavage of a substrate by the wild type HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 4 Activity <= 1 nM, 4 Activity <= 1 µM, 4 Tested
+AID: 82781
+
+410. Compound was tested for inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 8 Active, 3 Activity <= 1 µM, 8 Tested
+AID: 82627
+
+411. In vitro binding affinity to HIV protease was determined at pH 4.7
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 µM, 2 Tested
+AID: 162179
+
+412. In vitro binding affinity against HIV protease at pH 6.2.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 26 Active, 26 Activity <= 1 µM, 26 Tested
+AID: 162178
+
+413. In vitro binding affinity to HIV protease was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 161891
+
+414. Inhibitory activity against HIV protease; Active
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 8 Active, 8 Tested
+AID: 161880
+
+415. In vitro binding affinity against HIV protease at pH 6.2 was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 nM, 2 Activity <= 1 µM, 2 Tested
+AID: 160448
+
+416. Compound was tested for the inhibitory activity against HIV-protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 5 Active, 3 Activity <= 1 µM, 5 Tested
+AID: 160446
+
+417. Inhibition of HIV-protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 13 Active, 11 Activity <= 1 µM, 13 Tested
+AID: 160445
+
+418. Inhibition of HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 20 Active, 4 Activity <= 1 nM, 20 Activity <= 1 µM, 20 Tested
+AID: 160299
+
+419. Binding affinity towards HIV protease was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 1 Activity <= 1 nM, 2 Activity <= 1 µM, 2 Tested
+AID: 160286
+
+420. Compound was tested for the inhibitory activity against HIV-protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 83432
+
+421. Inhibition constant of ritonavir towards HIV protease was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 82914
+
+422. Inhibitory activity against HIV-1 protease using scintillation proximity assay (SPA assay)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 16 Active, 16 Activity <= 1 µM, 16 Tested
+AID: 82767
+
+423. Binding affinity for HIV -1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 11 Active, 11 Activity <= 1 nM, 11 Activity <= 1 µM, 11 Tested
+AID: 82295
+
+424. Inhibitory activity against HIV -1 Protease in whole cell assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 11 Active, 11 Activity <= 1 µM, 11 Tested
+AID: 82294
+
+425. Compound was evaluated for the inhibition of HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 5 Active, 2 Activity <= 1 nM, 5 Activity <= 1 µM, 8 Tested
+AID: 163475
+
+426. In vitro inhibitory activity against purified HIV-1 protease at a pH of 4.7 and a final enzyme concentration of 0.45-1.1 nM
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 25 Active, 21 Activity <= 1 µM, 25 Tested
+AID: 163474
+
+427. Compound was evaluated for its antiviral activity against HIV-Protease in cell based assay.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 µM, 2 Tested
+AID: 162530
+
+428. In vitro inhibition of HIV-1 protease at pH 6 using 164 uM peptide substrate
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 14 Active, 13 Activity <= 1 µM, 18 Tested
+AID: 162515
+
+429. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 10 Active, 10 Activity <= 1 µM, 12 Tested
+AID: 162379
+
+430. Tested for inhibitory activity against the recombinant HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 µM, 5 Tested
+AID: 162378
+
+431. Inhibition of HIV protease cleavage of V-S-Q-N-(b-naphthylalanine)-P-I-V
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 12 Active, 10 Activity <= 1 µM, 14 Tested
+AID: 162375
+
+432. Inhibitory activity was evaluated against recombinant HIV-1 protease using spectrofluorimetric assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 7 Active, 7 Activity <= 1 µM, 7 Tested
+AID: 162367
+
+433. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 10 Active, 2 Activity <= 1 nM, 12 Activity <= 1 µM, 12 Tested
+AID: 162362
+
+434. Inhibitory activity against HIV-1 protease in spectrofluorimetric assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 11 Active, 11 Activity <= 1 µM, 11 Tested
+AID: 162358
+
+435. Inhibitory activity against HIV-1 Protease was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 1 Activity <= 1 nM, 6 Activity <= 1 µM, 6 Tested
+AID: 162203
+
+436. In vitro inhibitory activity against HIV-1 protease(PR).
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 35 Active, 17 Activity <= 1 µM, 37 Tested
+AID: 162183
+
+437. Concentration required for in vitro inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 2 Activity <= 1 nM, 5 Activity <= 1 µM, 5 Tested
+AID: 162063
+
+438. Concentration required for in vitro inhibition of HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 4 Activity <= 1 µM, 4 Tested
+AID: 162062
+
+439. In vitro inhibition of HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 15 Active, 9 Activity <= 1 µM, 16 Tested
+AID: 162060
+
+440. Concentration required for inhibitory activity against HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 14 Active, 14 Activity <= 1 µM, 16 Tested
+AID: 162059
+
+441. Inhibition of HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 15 Active, 13 Activity <= 1 µM, 15 Tested
+AID: 162052
+
+442. Compound was evaluated for the inhibition of HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 5 Active, 4 Activity <= 1 µM, 6 Tested
+AID: 162035
+
+443. Compound was evaluated for its inhibitory activity in recombinant HIV-l protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 2 Activity <= 1 µM, 3 Tested
+AID: 162034
+
+444. Compound was evaluated for its inhibitory activity against recombinant HIV-1 protease using [125I]-SPA (scintillation proximity assay)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 162033
+
+445. Apparent inhibitory constant against HIV-1 protease was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 10 Active, 1 Activity <= 1 µM, 16 Tested
+AID: 160625
+
+446. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 23 Active, 2 Activity <= 1 nM, 15 Activity <= 1 µM, 23 Tested
+AID: 160624
+
+447. Tested for inhibitory activity against the recombinant HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 3 Activity <= 1 nM, 4 Activity <= 1 µM, 9 Tested
+AID: 160609
+
+448. Tested for inhibitory activity against HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 160607
+
+449. Inhibitory activity was evaluated against HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 23 Active, 11 Activity <= 1 nM, 23 Activity <= 1 µM, 23 Tested
+AID: 160480
+
+450. Inhibitory activity HIV-1 protease enzyme
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 17 Active, 17 Activity <= 1 µM, 17 Tested
+AID: 160478
+
+451. Inhibitory activity against HIV protease was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 1 Activity <= 1 nM, 2 Activity <= 1 µM, 5 Tested
+AID: 160463
+
+452. Inhibition constant against HIV protease was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 µM, 2 Tested
+AID: 160453
+
+453. Evaluated for inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 16 Active, 1 Activity <= 1 nM, 18 Activity <= 1 µM, 18 Tested
+AID: 160307
+
+454. Compound was evaluated for the inhibition of recombinant HIV-1 protease at 37 degrees C and pH of 6.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 7 Tested
+AID: 160306
+
+455. Inhibition of HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 34 Active, 1 Activity <= 1 nM, 25 Activity <= 1 µM, 35 Tested
+AID: 160305
+
+456. Compound was evaluated for its binding affinity against HIV-1 protease using [125I]-SPA (scintillation proximity assay)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 160302
+
+457. Inhibitory activity against HIV protease enzyme.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 11 Active, 3 Activity <= 1 µM, 11 Tested
+AID: 160298
+
+458. Compound was evaluated for binding affinity towards HIV-Protease enzyme.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 nM, 2 Activity <= 1 µM, 2 Tested
+AID: 160295
+
+459. The compound was evaluated for irreversible inhibition of HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 1 Activity <= 1 µM, 4 Tested
+AID: 82934
+
+460. Concentration of compound for half maximal inactivation rate on protease of Human immunodeficiency virus-1 (HIV-I) was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 82908
+
+461. Tested for inhibitory activity against the recombinant HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 1 Activity <= 1 µM, 3 Tested
+AID: 82802
+
+462. Tested for inhibitory activity against HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 2 Activity <= 1 nM, 3 Activity <= 1 µM, 3 Tested
+AID: 82801
+
+463. Inhibitory activity against purified HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 82795
+
+464. Compound was tested for its inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 9 Active, 2 Activity <= 1 nM, 9 Activity <= 1 µM, 9 Tested
+AID: 82794
+
+465. Compound was tested for inactivation of purified HIV-1 protease in vitro
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 1 Activity <= 1 nM, 4 Activity <= 1 µM, 4 Tested
+AID: 82793
+
+466. Compound was evaluated for its binding affinity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 4 Tested
+AID: 82792
+
+467. Binding affinity for HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 13 Active, 12 Activity <= 1 µM, 13 Tested
+AID: 82789
+
+468. Tested in vitro for the ability to inhibit HIV-1 protease at pH 7.4
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 3 Activity <= 1 µM, 3 Tested
+AID: 82780
+
+469. Tested in vitro for the ability to inhibit HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 16 Active, 16 Activity <= 1 µM, 16 Tested
+AID: 82779
+
+470. Tested for inhibitory activity against the recombinant HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 82777
+
+471. Inhibitory concentration required against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 7 Active, 3 Activity <= 1 nM, 7 Activity <= 1 µM, 7 Tested
+AID: 82775
+
+472. Inhibitory concentration against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 1 Activity <= 1 nM, 2 Activity <= 1 µM, 2 Tested
+AID: 82774
+
+473. In vitro inhibition of HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 18 Active, 7 Activity <= 1 nM, 18 Activity <= 1 µM, 18 Tested
+AID: 82765
+
+474. Inhibitory activity if the compound was determined against HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 6 Activity <= 1 µM, 6 Tested
+AID: 82640
+
+475. Inhibitory activity against purified HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 29 Active, 29 Activity <= 1 µM, 29 Tested
+AID: 82639
+
+476. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 25 Active, 11 Activity <= 1 nM, 25 Activity <= 1 µM, 25 Tested
+AID: 82638
+
+477. Inhibition of Human Immunodeficiency virus-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 13 Active, 11 Activity <= 1 nM, 13 Activity <= 1 µM, 13 Tested
+AID: 82637
+
+478. In vitro inhibitory activity against HIV-1 protease was evaluated
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 23 Active, 22 Activity <= 1 µM, 23 Tested
+AID: 82636
+
+479. In vitro inhibitory activity against HIV-1 protease enzyme.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 9 Active, 1 Activity <= 1 nM, 9 Activity <= 1 µM, 9 Tested
+AID: 82635
+
+480. Concentration required for in vitro inhibition of HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 3 Activity <= 1 µM, 3 Tested
+AID: 82632
+
+481. Compound was tested for inhibitory activity against recombinant HIV-1 protease using 125 I-SPA (scintillation proximity assay)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 5 Activity <= 1 µM, 7 Tested
+AID: 82631
+
+482. Compound was tested for inactivation of purified HIV-1 protease in vitro
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 9 Active, 8 Activity <= 1 µM, 9 Tested
+AID: 82626
+
+483. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 µM, 2 Tested
+AID: 82621
+
+484. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 4 Tested
+AID: 82616
+
+485. The compound was evaluated for its inhibition constant against HIV-1 protease (HIV PR)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 1 Activity <= 1 µM, 2 Tested
+AID: 82615
+
+486. Compound was tested for the inhibition activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 9 Active, 3 Activity <= 1 nM, 9 Activity <= 1 µM, 10 Tested
+AID: 82297
+
+487. Binding affinity to HIV-protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 24 Activity <= 1 µM, 24 Tested
+AID: 82296
+
+488. Inhibition of HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 14 Active, 12 Activity <= 1 µM, 14 Tested
+AID: 82293
+
+489. Inhibition of human immunodeficiency virus type 1 (HIV-1) protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 9 Active, 3 Activity <= 1 µM, 13 Tested
+AID: 82292
+
+490. In vitro inhibition HIV-1 IIIB protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 17 Active, 3 Activity <= 1 nM, 17 Activity <= 1 µM, 18 Tested
+AID: 82291
+
+491. Inhibition of HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 13 Active, 11 Activity <= 1 nM, 13 Activity <= 1 µM, 13 Tested
+AID: 82290
+
+492. In vitro inhibitory activity of compound against HIV protease from BRU (IIIB) strain of HIV- 1 virus was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 82289
+
+493. Inhibitory activity against HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 7 Active, 1 Activity <= 1 nM, 7 Activity <= 1 µM, 7 Tested
+AID: 82288
+
+494. Inhibitory concentration for antiviral inhibition against HIV-1 in MT-4 cell culture
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 16 Active, 16 Activity <= 1 µM, 16 Tested
+AID: 241508
+
+495. Binding affinity against ritonavir-resistant strains.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 163477
+
+496. Inhibition of HIV-1 proteinase was assayed in infected MT-4 cells
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 14 Active, 14 Activity <= 1 µM, 14 Tested
+AID: 160440
+
+497. The 50% inhibitory concentration was measured as inhibition of RNA-dependent DNA polymerase activity
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 2 Activity <= 1 µM, 6 Tested
+AID: 198413
+
+498. The 50% inhibitory concentration was measured as inhibition of DNA-dependent DNA polymerase activity
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 5 Active, 6 Tested
+AID: 198412
+
+499. Antiviral potency of HIV-1 in MT-4 human T lymphoid cells with IIIb isolate
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 12 Active, 11 Activity <= 1 µM, 13 Tested
+AID: 105168
+
+500. Inhibition of the spread of HIV-1 IIIb infection in MT-4 human T-lymphoid cells
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 11 Active, 11 Activity <= 1 µM, 13 Tested
+AID: 104947
+
+501. Antiviral activity against the HTLV-III strain of HIV-1 in CEM cell lines
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 2 Activity <= 1 µM, 12 Tested
+AID: 46762
+
+502. Effective dose against protease of human immunodeficiency virus type 1
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 240429
+
+503. Binding affinity against HIV-1 protease enzyme.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 160273
+
+504. Compound was tested for inhibition of HIV protease triple mutant (Q7K/L33I/L63I)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 162533
+
+505. Tested for the activity against HIV protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 160636
+
+506. Inhibitory activity of the Compound was tested against HIV protease enzyme.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 7 Active, 7 Activity <= 1 µM, 7 Tested
+AID: 162223
+
+507. Inhibitory activity of the Compound was tested against HIV protease enzyme.(value reported by Rich etal)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 82903
+
+508. Tested for inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 80894
+
+509. Concentration required for inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 163492
+
+510. Inhibitory activity against P2 site in HIV protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 7 Active, 6 Activity <= 1 nM, 7 Activity <= 1 µM, 7 Tested
+AID: 163478
+
+511. Inhibitory activity was evaluated against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 3 Activity <= 1 µM, 4 Tested
+AID: 162363
+
+512. Inhibitory activity against purified HIV-1 protease (BH10) at a pH of 4.7 and a final enzyme concentration of 0.45-1.1 nM
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 32 Active, 29 Activity <= 1 µM, 32 Tested
+AID: 162207
+
+513. In vitro inhibition of HIV-1 protease, activity expressed as CIC95 in whole cell assay.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 2 Activity <= 1 µM, 3 Tested
+AID: 161884
+
+514. Inhibitory constant against HIV-1 protease was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 5 Tested
+AID: 160603
+
+515. Inhibitory constant against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 3 Tested
+AID: 160601
+
+516. Inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 28 Active, 10 Activity <= 1 nM, 26 Activity <= 1 µM, 28 Tested
+AID: 82804
+
+517. Tested for inhibition of HIV protease using fluorogenic substrate
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 13 Active, 4 Activity <= 1 nM, 13 Activity <= 1 µM, 15 Tested
+AID: 82798
+
+518. Inhibitory activity was evaluated against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 4 Tested
+AID: 82769
+
+519. Compound was tested for inactivation of purified HIV-1 protease in vitro
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 82745
+
+520. Concentration required for in vitro inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 5 Active, 9 Activity <= 1 µM, 9 Tested
+AID: 82633
+
+521. Compound was tested for inhibitory activity against Human immunodeficiency virus (HIV-1) protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 7 Active, 1 Activity <= 1 nM, 7 Activity <= 1 µM, 7 Tested
+AID: 82629
+
+522. Inhibitory activity was determined against HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 18 Active, 2 Activity <= 1 nM, 17 Activity <= 1 µM, 18 Tested
+AID: 82617
+
+523. Antiviral activity as inhibition of HIV protease; Active
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Tested
+AID: 161878
+
+524. Inhibition of HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 11 Active, 3 Activity <= 1 nM, 10 Activity <= 1 µM, 13 Tested
+AID: 162040
+
+525. Effective concentration of compound for inhibition of HIV 1 protease was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 6 Activity <= 1 µM, 6 Tested
+AID: 161889
+
+526. Compound was evaluated for the inhibitory activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 5 Activity <= 1 nM, 6 Activity <= 1 µM, 6 Tested
+AID: 160308
+
+527. The compound was tested for binding activity against HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 nM, 1 Activity <= 1 µM, 1 Tested
+AID: 163472
+
+528. The compound was tested for binding activity against HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 nM, 2 Activity <= 1 µM, 2 Tested
+AID: 163471
+
+529. Binding activity against HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 3 Activity <= 1 nM, 3 Activity <= 1 µM, 3 Tested
+AID: 163470
+
+530. Binding activity against HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 1 Activity <= 1 nM, 11 Activity <= 1 µM, 11 Tested
+AID: 163469
+
+531. Binding activity against HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 1 Activity <= 1 nM, 11 Activity <= 1 µM, 11 Tested
+AID: 163468
+
+532. Inhibitory activity towards HIV-1 protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 1 Activity <= 1 nM, 5 Activity <= 1 µM, 11 Tested
+AID: 162361
+
+533. Inhibitory activity against HIV-1 protease.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 23 Active, 1 Activity <= 1 nM, 19 Activity <= 1 µM, 35 Tested
+AID: 161736
+
+534. Inhibitory activity against HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 44 Active, 3 Activity <= 1 nM, 39 Activity <= 1 µM, 46 Tested
+AID: 161735
+
+535. Inhibitory activity against HIV-1 Protease
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 7 Active, 7 Activity <= 1 µM, 7 Tested
+AID: 161734
+
+536. Ability to prevent cleavage of acompound by the HIV protease wild-type enzyme
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 4 Activity <= 1 nM, 4 Activity <= 1 µM, 4 Tested
+AID: 162028
+
+537. Inhibitory activity was evaluated against HIV-protease was evaluated
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 162366
+
+538. Inhibitory concentration required to inhibit hydrolytic activity of recombinant HIV-1 PR (human immunodeficiency virus protease)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 3 Tested
+AID: 82301
+
+539. Inhibition of HIV-1 Mutant HIV-1 RT enzymes containing the single amino acid substitution V179D
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 µM, 2 Tested
+AID: 198914
+
+540. Anti-HIV-1 activity determined in human peripheral blood mononuclear PBM cells, expressed as EC50
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 2 Activity <= 1 µM, 27 Tested
+AID: 154957
+
+541. Activity to inhibit mutant HIV-1 rRT activity in Y181C
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 3 Activity <= 1 µM, 3 Tested
+AID: 80893
+
+542. Compound was tested in vitro to inhibit human immuno virus-1 (HIV-1) using enzymatic disintegration assay.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 4 Tested
+AID: 93390
+
+543. Inhibition of strand -transfer (ST) activity in the presence of Mn2+
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 9 Active, 1 Activity <= 1 µM, 17 Tested
+AID: 93367
+
+544. Tested in vitro against strand -transfer (ST) activity in the presence of Mg2+ as the cationic cofactor
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 5 Active, 13 Tested
+AID: 93366
+
+545. Inhibition of 3'-processing (TC) in the presence of Mn2+ in vitro
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 10 Active, 17 Tested
+AID: 93365
+
+546. Inhibitory activity against TIBO-resistant HIV-1 RT Nucleic Acid polymerase
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Tested
+AID: 199680
+
+547. Inhibitory activity against RNA-dependent DNA polymerase (RDDP) of HIV-1 RT Nucleic Acid polymerase
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 2 Activity <= 1 µM, 3 Tested
+AID: 199679
+
+548. Inhibitory activity against DNA -dependent DNA polymerase (DDDP) of HIV-1 RT Nucleic Acid polymerase
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 µM, 3 Tested
+AID: 199678
+
+549. Compound was tested for Inhibition of HIV-1 RT activity
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 197791
+
+550. Compound is evaluated in vitro for the inhibition single mutant of HIV-1 RTS (Y181C)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 200173
+
+551. Compound is evaluated in vitro for the inhibition single mutant of HIV-1 RTS (K103 N)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 200172
+
+552. Inhibition single mutant of HIV-1 RT (Y181C)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 1 Activity <= 1 µM, 7 Tested
+AID: 200171
+
+553. Inhibition single mutant of HIV-1 RT (K103 N)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 2 Activity <= 1 µM, 7 Tested
+AID: 200170
+
+554. Inhibition of HIV-1 RT using rC-dG as template
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 13 Active, 11 Activity <= 1 µM, 15 Tested
+AID: 200169
+
+555. Inhibitory effect on HIV-1 RT activity using template primer,poly (rC)-oligo (dG)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 µM, 2 Tested
+AID: 198388
+
+556. Inhibitory effect on HIV-1 RT activity using template primer,poly (rA)-oligo (dT)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 5 Active, 1 Activity <= 1 µM, 5 Tested
+AID: 198387
+
+557. IC50 value was measured as RNA dependent DNA polymerase associated activity by using 1*10e-3 units of radiolabeled template poly(rC)-oligo(dG)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 197940
+
+558. IC50 value was measured as RNA dependent DNA polymerase associated activity by using 1*10e-3 units of radiolabeled template poly(rA)-oligo(dT)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 197939
+
+559. IC50 value was measured as RNA dependent DNA polymerase associated activity by using 10e-3 units of radiolabeled template poly(rC)-oligo(dG).
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 197938
+
+560. IC50 value was measured as RNA dependent DNA polymerase associated activity by using 10e-3 units of radiolabeled template poly(rA)-oligo(dT).
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 197937
+
+561. IC50 value was measured as DNA dependent DNA polymerase associated activity by using 0.05 units of radiolabeled template poly(rA)-oligo(dT).
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 197936
+
+562. IC50 value was measured as DNA dependent DNA polymerase associated activity by using 0.05 units of radiolabeled template poly(rA)-oligo(dT)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 197935
+
+563. In vitro inhibitory activity against HIV proteinase
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 31 Active, 1 Activity <= 1 nM, 24 Activity <= 1 µM, 34 Tested
+AID: 162047
+
+564. Compound is evaluated in vitro for the inhibition single mutant of HIV-1 RT (K103 N)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 94311
+
+565. Compound is evaluated in vitro for the inhibition single mutant of HIV-1 RT (Y181C)
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 3047
+
+566. Binding affinity against HIV-1 aspartic proteinase was determined
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 2 Activity <= 1 nM, 4 Activity <= 1 µM, 4 Tested
+AID: 162713
+
+567. Compound was evaluated for its ability to inhibit the mutant K103N V1081NNRTI HIV-1 enzyme
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 3 Activity <= 1 µM, 4 Tested
+AID: 143402
+
+568. Compound was evaluated for its ability to inhibit the mutant K103N P225H NNRTI HIV-1 enzyme
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 4 Activity <= 1 µM, 4 Tested
+AID: 143399
+
+569. Compound was evaluated for its ability to inhibit the mutant K103N NNRTI HIV-1 enzyme
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 6 Active, 6 Activity <= 1 µM, 6 Tested
+AID: 143398
+
+570. Compound was evaluated for its ability to inhibit the mutant K103N L1001 NNRTI HIV-1 enzyme
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 4 Active, 1 Activity <= 1 µM, 4 Tested
+AID: 143396
+
+571. Compound was evaluated for its ability to inhibit the NNRTI HIV-1 enzyme by 90% using whole cell assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 2 Active, 2 Activity <= 1 µM, 2 Tested
+AID: 143394
+
+572. Compound was evaluated for its ability to inhibit the NNRTI HIV-1 enzyme by 50% using enzyme assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 143392
+
+573. Inhibitory concentration against wild-type virus K103N/L1001 and HIVdouble mutant in a whole cell antiviral assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Tested
+AID: 94450
+
+574. Inhibitory concentration against wild-type virus K103N/L1001 and HIV-1 RT double mutant in whole cell antiviral assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 11 Active, 3 Activity <= 1 µM, 11 Tested
+AID: 94449
+
+575. Inhibitory concentration against wild-type virus K103N mutant in a whole cell antiviral assay
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 1 Active, 1 Activity <= 1 µM, 1 Tested
+AID: 94448
+
+576. Inhibitory concentration against polymerization in A17 double mutant HIV-1 RT using a template primer of poly rC/dG12-18 and [3H]dGTP
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 7 Tested
+AID: 83433
+
+577. Inhibitory activity against HIV-1 RT with poly.rC-oligo.dG template primer
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 13 Active, 11 Activity <= 1 µM, 13 Tested
+AID: 198082
+
+578. The compound was tested in vitro for its inhibitory activity against HIV-1 Proteinase activity
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 10 Active, 1 Activity <= 1 nM, 10 Activity <= 1 µM, 10 Tested
+AID: 165346
+
+579. Inhibitory activity against HIV-1 proteinase
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 3 Active, 2 Activity <= 1 µM, 5 Tested
+AID: 165345
+
+580. Concentration that inhibits cellular growth of MT-4 cells acutely infected with HIV-1 RFstrain by 50%
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 15 Active, 15 Activity <= 1 µM, 20 Tested
+AID: 105579
+
+581. Cytotoxic activity was determined against HIV-1 infected MT-4 cells.
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 12 Active, 20 Tested
+AID: 105374
+
+582. Inhibitory activity against HIV-1 RF infected MT-2 cells
+Source: ChEMBL
+Protein Target: Pol polyprotein
+Substance BioActivity: 21 Active, 13 Activity <= 1 µM, 22 Tested
+AID: 104394
