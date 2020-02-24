@@ -1,0 +1,115 @@
+REMARK  19 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  C41_7 
+REMARK       I    between atoms: C41_7  and  N_9 
+REMARK    2  A    between atoms: N_9  and  CA_10 
+REMARK    3  A    between atoms: CA_10  and  C_11 
+REMARK       I    between atoms: C_11  and  N_14 
+REMARK    4  A    between atoms: N_14  and  CA_15 
+REMARK    5  A    between atoms: CA_15  and  CB_18 
+REMARK    6  A    between atoms: CA_15  and  C_16 
+REMARK       I    between atoms: C_16  and  N_21 
+REMARK    7  A    between atoms: N_21  and  CA_22 
+REMARK    8  A    between atoms: CA_22  and  CB_25 
+REMARK    9  A    between atoms: CA_22  and  C_23 
+REMARK       I    between atoms: C_23  and  N5_29 
+REMARK   10  A    between atoms: CB_25  and  CG_26 
+REMARK   11  A    between atoms: N5_29  and  C19_33 
+REMARK   12  A    between atoms: C19_33  and  C20_34 
+REMARK   13  A    between atoms: C19_33  and  C25_37 
+REMARK   14  A    between atoms: C20_34  and  C21_35 
+REMARK   15  A    between atoms: C21_35  and  C22_36 
+REMARK   16  A    between atoms: C22_36  and  O_43 
+REMARK   17  A    between atoms: C25_37  and  C26_38 
+REMARK   18  A    between atoms: C_42  and  O_43 
+REMARK   19  A    between atoms: C_42  and  C6_49 
+ROOT
+ATOM      1  CA  LEU C   4     -12.124  14.096  69.716  1.00 39.95     0.186 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  CB  LEU C   4     -11.825  15.155  70.765  1.00 41.97     0.034 C 
+BRANCH   2   3
+ATOM      3  CG  LEU C   4     -13.001  15.397  71.764  1.00 45.86     0.002 C 
+ATOM      4  CD1 LEU C   4     -13.834  14.100  72.019  1.00 43.70     0.000 C 
+ATOM      5  CD2 LEU C   4     -12.487  15.982  73.082  1.00 43.98     0.000 C 
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   6
+ATOM      6  C   LEU C   4     -11.582  14.561  68.334  1.00 38.38     0.274 C 
+HETATM    7  N5  PJE C   5     -12.524  14.987  67.260  1.00 34.60    -0.238 NA
+ATOM      8  O   LEU C   4     -10.411  14.570  68.131  1.00 44.55    -0.268 OA
+BRANCH   7   9
+HETATM    9  C19 PJE C   5     -11.993  15.425  65.951  1.00 40.54     0.107 C 
+BRANCH   9  10
+HETATM   10  C20 PJE C   5     -12.499  16.817  65.647  1.00 36.98     0.035 C 
+BRANCH  10  11
+HETATM   11  C21 PJE C   5     -11.365  17.802  65.289  1.00 45.43     0.098 C 
+BRANCH  11  12
+HETATM   12  C22 PJE C   5     -10.167  17.764  66.278  1.00 52.38     0.272 C 
+HETATM   13  O7  PJE C   5     -10.354  17.731  67.451  1.00 57.27    -0.264 OA
+BRANCH  12  14
+HETATM   14  O   010 C   6      -8.840  17.782  65.766  1.00 52.13    -0.297 OA
+BRANCH  14  15
+HETATM   15  C   010 C   6      -7.830  17.582  66.759  1.00 63.14     0.178 C 
+BRANCH  15  16
+HETATM   16  C6  010 C   6      -7.082  18.927  66.959  1.00 66.95     0.008 A 
+HETATM   17  C1  010 C   6      -5.739  18.930  67.322  1.00 68.45    -0.002 A 
+HETATM   18  C2  010 C   6      -5.067  20.138  67.502  1.00 70.02    -0.000 A 
+HETATM   19  C3  010 C   6      -5.744  21.347  67.320  1.00 58.91    -0.000 A 
+HETATM   20  C4  010 C   6      -7.085  21.339  66.961  1.00 57.63    -0.000 A 
+HETATM   21  C5  010 C   6      -7.760  20.134  66.778  1.00 62.65    -0.002 A 
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  12  14
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+BRANCH   9  22
+HETATM   22  C25 PJE C   5     -12.456  14.464  64.858  1.00 30.76     0.029 C 
+BRANCH  22  23
+HETATM   23  C26 PJE C   5     -11.827  13.003  65.048  1.00 34.19     0.070 C 
+HETATM   24  C27 PJE C   5     -10.215  13.041  64.725  1.00 40.55     0.043 C 
+HETATM   25  C28 PJE C   5      -9.925  12.061  63.836  1.00 39.60     0.294 C 
+HETATM   26  N6  PJE C   5     -11.238  11.571  63.275  1.00 35.08     0.370 N 
+HETATM   27  C29 PJE C   5     -12.383  12.148  64.256  1.00 34.70     0.405 C 
+HETATM   28  O8  PJE C   5     -13.440  12.730  63.491  1.00 31.54    -0.184 OA
+ENDBRANCH  22  23
+ENDBRANCH   9  22
+ENDBRANCH   7   9
+ENDBRANCH   1   6
+BRANCH   1  29
+ATOM     29  N   LEU C   4     -11.452  12.859  70.085  1.00 37.32    -0.229 NA
+ATOM     30  C   VAL C   3     -11.663  11.606  69.273  1.00 40.78     0.274 C 
+ATOM     31  O   VAL C   3     -12.381  11.617  68.328  1.00 36.69    -0.268 OA
+BRANCH  30  32
+ATOM     32  CA  VAL C   3     -10.955  10.336  69.666  1.00 36.29     0.186 C 
+BRANCH  32  33
+ATOM     33  CB  VAL C   3     -10.004   9.895  68.515  1.00 37.53     0.032 C 
+ATOM     34  CG2 VAL C   3      -9.116   8.687  68.955  1.00 43.10     0.003 C 
+ATOM     35  CG1 VAL C   3      -9.130  11.086  68.012  1.00 40.26     0.003 C 
+ENDBRANCH  32  33
+BRANCH  32  36
+ATOM     36  N   VAL C   3     -11.943   9.281  69.911  1.00 34.91    -0.229 NA
+ATOM     37  C   ALA C   2     -12.115   8.750  71.241  1.00 41.96     0.274 C 
+ATOM     38  O   ALA C   2     -11.466   9.159  72.125  1.00 41.95    -0.268 OA
+BRANCH  37  39
+ATOM     39  CA  ALA C   2     -13.166   7.625  71.495  1.00 42.30     0.187 C 
+ATOM     40  CB  ALA C   2     -14.397   8.218  72.132  1.00 36.98     0.037 C 
+BRANCH  39  41
+ATOM     41  N   ALA C   2     -12.583   6.625  72.374  1.00 41.65    -0.225 NA
+HETATM   42  C41 02J C   1     -11.475   5.798  71.891  1.00 47.56     0.295 C 
+HETATM   43  O42 02J C   1     -11.062   5.943  70.793  1.00 47.13    -0.264 OA
+BRANCH  42  44
+HETATM   44  C3  02J C   1     -10.848   4.738  72.810  1.00 50.26     0.167 A 
+HETATM   45  N2  02J C   1     -10.585   4.861  74.114  1.00 56.79    -0.122 NA
+HETATM   46  O1  02J C   1     -10.048   3.755  74.575  1.00 63.01    -0.215 OA
+HETATM   47  C5  02J C   1      -9.924   2.857  73.642  1.00 63.03     0.105 A 
+HETATM   48  C4  02J C   1     -10.425   3.420  72.447  1.00 54.38     0.049 A 
+HETATM   49  C6  02J C   1      -9.345   1.458  73.806  1.00 64.36     0.061 C 
+ENDBRANCH  42  44
+ENDBRANCH  39  41
+ENDBRANCH  37  39
+ENDBRANCH  32  36
+ENDBRANCH  30  32
+ENDBRANCH   1  29
+TORSDOF 19

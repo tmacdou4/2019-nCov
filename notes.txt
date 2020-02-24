@@ -59,9 +59,10 @@ How to move forward
 
 	-Get ligands from other, homologous structures. Might be able to build a small dataset from that.
 
-<<<<<<< HEAD
-
-=======
+Vina tutorial!
+https://youtu.be/-GVZP0X0Tg8
+Another!
+https://youtu.be/blxSn3Lhdec
 
 Pubchem assay ID’s for SARS main protease
 search: (SARS coronavirus AND (73745819[ProteinTargetGI])) 
@@ -113,5 +114,44 @@ Ok, now searching for “Protease” in protein search. The probably is there is
 More viruses? - Did blast with keeping 5000 sequences this time and still got many different coronaviruses. Interesting, but I want similar viruses that will actually have some assays against them.
 
 Searched for west nile virus: found AID: 577, HTS to identify Inhibitors of West Nile Virus NS2bNS3 Proteinase, with a massive 65K compounds tested. AID: 653 looks to be the follow-up, with fewer tests. Might be better to just grab the compounds from AID 653 because they look to be less shotgun-blasts than the others
->>>>>>> 69443f371fa726593a7f32958336d3d02ebd6db4
+
+Worked on the notebook that will download ready the inhibitor datasets. Uses PUG-REST and python's os import.
+
+Re-docking the N3 ligand in the crystal structure of the protein.
+	First, open the .cif file and save as .pdb. The delete the covalent n3 inhibitor and save the receptor as a .pdb. The do the same and save the ligand as a pdb aswell.
+
+Gridbox around the receptor (might not be perfect):
+
+center: x=-10.963, x=12.683, z=67.193
+num points in x: 28, y=40, z=32, spacing .5
+
+Docking with a completely rigid protein for the first time only.
+
+For future reference, to make felixble ligands, init file will look like:
+
+******************
+
+receptor = your_receptor_noflex.pdbqt
+flex = your_flexes.pdbqt
+ligand = your_ligand.pdbqt
+
+out = out.pdbqt
+
+center_x = 2.9
+center_y = -7.1
+center_z = 0.8
+
+size_x = 12
+size_y = 18
+size_z = 12
+
+exhaustiveness = 8
+
+*************************
+
+following Oleg's tutorial again.
+
+run vina using ./vina --config conf.txt
+
+Re-docked in vina - out.pdbqt. structure is not the same as the one found in the orignal N3 ligand, because this is not a covalent inhibitor. Value ot beat now is -7.5 kcal/mol
 
