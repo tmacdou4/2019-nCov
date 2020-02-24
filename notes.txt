@@ -33,6 +33,7 @@ Possible approaches:
 
 Workflow:
 	-95 pdb entries share 96% homology to the coronavirus structure.
+				99% identity to Bat Coronavirus
 		-PDB for 6LU7, sequence similarity
 	-Search the pubchem bioassay database to get the structures of ligands bound, and their activities
 	-query: "P0C6X7"[UniProt Accession] AND (pcassay_pccompound_active[filt]) AND (pcassay_pccompound_activityconcnanomolar[filt]) 
@@ -78,9 +79,7 @@ Done:
 SARS - GI73745819
 HIV - GI75593047 - pol polyprotein
 Hep3 NSC - No specific protein target, just searched NS3 in protein target text. Also some west nile virus in there?
-
-Todo:
-MERS - not much available on that one
+MERS - No specific target, just searched MERS Protease in pubchem search bar. So few results that I can look at them individually. All mention 3CL-Pro by name except the last one (removed manually)
 
 Using NCBI PUG-REST
 https://pubchemdocs.ncbi.nlm.nih.gov/pug-rest-tutorial$_Toc458584429
@@ -102,10 +101,13 @@ TODO going forward:
 	Get more Assay ID’s
 	Get Structures + format them into a good little database (medchem filters?)
 	Re-Dock the N3 ligand.
-	Download a generation framework and get it working.
+	Download a generation framework and get it working - using the database
 
 
+Ok, now searching for “Protease” in protein search. The probably is there is like 50,000+ entries for each virus because there are so many mutants and replicates.
 
 
+More viruses? - Did blast with keeping 5000 sequences this time and still got many different coronaviruses. Interesting, but I want similar viruses that will actually have some assays against them.
 
+Searched for west nile virus: found AID: 577, HTS to identify Inhibitors of West Nile Virus NS2bNS3 Proteinase, with a massive 65K compounds tested. AID: 653 looks to be the follow-up, with fewer tests. Might be better to just grab the compounds from AID 653 because they look to be less shotgun-blasts than the others
 
