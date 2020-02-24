@@ -1,0 +1,117 @@
+Coronavirus Competition by Sage Health.
+Objective: Find a candidate drug (ligand) with a high binding affinity with the 2019-COVID main protease. A few studies have shown that HIV antivirals offer promising results, but this is still an open field of discovery. Use machine learning to identify a potential candidate, then use docking software to get the binding affinity between it and the main protease. Write a report that describes your process and results in detail in the form of a jupyter notebook. Finding a new drug or validating an existing drug are both suitable approaches, we will be donating samples of the winning compound to the Wuhan Institute of Virology for further analysis.
+
+Datasets:
+ZINC Database: https://zinc.docking.org/   
+Formatted ZINC Database: https://github.com/molecularsets/moses 
+DrugBank: https://www.drugbank.ca/
+COVID-2019 main protease: https://www.wwpdb.org/pdb?id=pdb_00006lu7  
+ChemBL: https://www.ebi.ac.uk/chembl/
+
+Docking Tools:
+AutoDock VINA: http://vina.scripps.edu/
+PyRX: https://pyrx.sourceforge.io/
+Deep Learning docking: https://github.com/search?q=deep+learning+docking
+
+Deep Reinforcement Learning Networks: 
+https://github.com/XuhanLiu/DrugEx 
+https://github.com/isayev/ReLeaSE 
+https://github.com/insilicomedicine/GENTRL 
+https://github.com/search?q=neural+drug 
+
+
+
+PDB structure code: 6LU7
+	-Unpublished. Coronavirus protease with docked ligand.
+
+Docked N3 ligand. Peptide-like. Smiles:
+CC(C)C[C@H](NC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)c1cc(C)on1)C(C)C)C(=O)N[C@@H](C[C@@H]2CCNC2=O)\C=C/C(=O)OCc3ccccc3
+
+Possible approaches:
+	Homology studies on similar protease proteins, possibly with more ligands bound.
+	3D shape-filling studies on the molecule?
+
+Workflow:
+	-95 pdb entries share 96% homology to the coronavirus structure.
+				99% identity to Bat Coronavirus
+		-PDB for 6LU7, sequence similarity
+	-Search the pubchem bioassay database to get the structures of ligands bound, and their activities
+	-query: "P0C6X7"[UniProt Accession] AND (pcassay_pccompound_active[filt]) AND (pcassay_pccompound_activityconcnanomolar[filt]) 
+	-Ensures active compounds. Maybe be able to design a workflow that can actually grab these structures?
+
+Details of N3 inhibitor:
+	Peptide-like (5/6-mer)
+	Covalent micheal acceptor subject to nuc attack to CYS145 on the protein
+	
+	Interactions mapped out. Not the same as N3 in CovNL63, shown in that paper. a hydrogen bond between the =O of the O-Benzyl group cannot accept a hydrogen bond from a nearby glycine (G142 in the NL63) this means that there’s an additional degree of freedom surrounding that benzyl group, maybe enough room to change to O-Benzyl to a heterocycle and have an h-bond form between it and Threonine 26. Found another possible binding spot with a leucine on the ligand to His41 on the protein.
+
+Found 3 possible new sites for bonds.
+New spots for cyclization within the molecule.
+
+How to move forward
+	-Autodock Vina, re-dock this molecule.
+	-Selective atom changes, re-dock. Try to add 1 stable extra interaction, for slightly higher score. 
+
+	-Try other docking programs (some using ML) to get a better score
+
+	-Do any docking programs model covalent inhibition? very important!
+		-not as important :/
+
+	-Get ligands from other, homologous structures. Might be able to build a small dataset from that.
+
+<<<<<<< HEAD
+
+=======
+
+Pubchem assay ID’s for SARS main protease
+search: (SARS coronavirus AND (73745819[ProteinTargetGI])) 
+73745819[ProteinTargetGI] - GI of protein target for 3C-like protease, partial [Infectious bronchitis virus] - 95.25% identity with the structure of 2019-nCov (insilico)
+2GTB, 4MDS, both pdb structures of SARS main protease, latter with non-covalent inhibitors
+
+AID’s for 73745819[ProteinTargetGI] - see file
+
+
+Trying to find more protease inhibitor data.
+
+Downloaded the fasta file of the nCov main protease.
+Blast search finds the exact sequence as a polyprotein (this protein is translated as a large polyprotein, then cleaves itself. There are very many matches and a lot of similarity between them - many different mutants of the SARS coronavirus.
+
+To find more Assays using similar proteins, might be better to search similarity on the PDB. Need to find Various other relevant proteases.
+
+Done:
+SARS - GI73745819
+HIV - GI75593047 - pol polyprotein
+Hep3 NSC - No specific protein target, just searched NS3 in protein target text. Also some west nile virus in there?
+MERS - No specific target, just searched MERS Protease in pubchem search bar. So few results that I can look at them individually. All mention 3CL-Pro by name except the last one (removed manually)
+
+Using NCBI PUG-REST
+https://pubchemdocs.ncbi.nlm.nih.gov/pug-rest-tutorial$_Toc458584429
+
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/assay/aid/XXXX/csv
+to get AID’s
+
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/substance/sid/XXXX/sdf
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/XXXX/sdf
+to get structures
+
+What can I add to this approach that is unique?
+	-Pairwise compound comparison?
+	-Dock all the structures then use docking score as the target?
+		using 2 machine and at 5 mins/compound, we’re looking at 4.34 days to dock 2500 structures.
+	-In-pocket design. Manually? 
+
+TODO going forward:
+	Get more Assay ID’s
+	Get Structures + format them into a good little database (medchem filters?)
+	Re-Dock the N3 ligand.
+	Download a generation framework and get it working - using the database
+
+
+Ok, now searching for “Protease” in protein search. The probably is there is like 50,000+ entries for each virus because there are so many mutants and replicates.
+
+
+More viruses? - Did blast with keeping 5000 sequences this time and still got many different coronaviruses. Interesting, but I want similar viruses that will actually have some assays against them.
+
+Searched for west nile virus: found AID: 577, HTS to identify Inhibitors of West Nile Virus NS2bNS3 Proteinase, with a massive 65K compounds tested. AID: 653 looks to be the follow-up, with fewer tests. Might be better to just grab the compounds from AID 653 because they look to be less shotgun-blasts than the others
+>>>>>>> 69443f371fa726593a7f32958336d3d02ebd6db4
+
