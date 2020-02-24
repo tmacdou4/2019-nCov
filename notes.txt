@@ -57,3 +57,8 @@ How to move forward
 
 	-Get ligands from other, homologous structures. Might be able to build a small dataset from that.
 
+Vina tutorial!
+https://youtu.be/-GVZP0X0Tg8
+Another!
+https://youtu.be/blxSn3Lhdec
+
