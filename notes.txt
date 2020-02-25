@@ -153,5 +153,9 @@ following Oleg's tutorial again.
 
 run vina using ./vina --config conf.txt
 
-Re-docked in vina - out.pdbqt. structure is not the same as the one found in the orignal N3 ligand, because this is not a covalent inhibitor. Value ot beat now is -7.5 kcal/mol
+Re-docked in vina - out.pdbqt. structure is not the same as the one found in the orignal N3 ligand, because this is not a covalent inhibitor. Value to beat now is -7.5 kcal/mol
 
+Now is time to find a generative process to get up and running. I predict this will prbably take the post time to get meaningful results from, so might aswell start now without the dataset full downloaded.
+
+Re-docked the N3 Ligand in Vina again, but this time using golem and ramping exhaustiveness up to 100, using all 80 cpus. Took about the same time as the workstations ones doing exhautivness 20.
+The new highest docking score is -7.6 kcal/mol. flexible ligands may get this higher because it can fit better into the binding pocket.
