@@ -237,12 +237,10 @@ Open AutoDockTools
 
 	For the first flexyboy, exhaustivness 8, found a new bottom confirmation at -7.9kcal/mol which is .3kcal/mol lower in energy
 
-	Next flexyboy, ran on golem, exhaustiveness 100. New bottom confirmation at -XXkcal/mol which is .3kcal/mol lower in energy than no flex.
+	Next flexyboy, ran on golem, exhaustiveness 100. New bottom confirmation at -7.7kcal/mol which is not lower than the non-golem one. hmmm.
 
 
-
-	
-	
+Return to dataset generation
 
 	
 

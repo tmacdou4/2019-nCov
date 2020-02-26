@@ -1,0 +1,83 @@
+1. QFRET-based primary biochemical high throughput screening assay to identify inhibitors of the SARS coronavirus 3C-like Protease (3CLPro)
+Source: The Scripps Research Institute Molecular Screening Center
+Protein Target: 3C-like protease, partial [Infectious bronchitis virus]
+Substance BioActivity: 405 Active, 290893 Tested
+AID: 1706
+
+2. Summary of probe development efforts to identify inhibitors of the SARS coronavirus 3C-like Protease (3CLPro)
+Source: The Scripps Research Institute Molecular Screening Center
+Protein Target: 3C-like protease, partial [Infectious bronchitis virus]
+Substance BioActivity: 
+AID: 1859
+
+3. QFRET-based confirmation biochemical high throughput screening assay for inhibitors of the SARS coronavirus 3C-like Protease (3CLPro)
+Source: The Scripps Research Institute Molecular Screening Center
+Protein Target: 3C-like protease, partial [Infectious bronchitis virus]
+Substance BioActivity: 136 Active, 380 Tested
+AID: 1879
+
+4. QFRET-based dose response biochemical high throughput screening assay to identify inhibitors of the SARS coronavirus 3C-like Protease (3CLPro)
+Source: The Scripps Research Institute Molecular Screening Center
+Protein Target: 3C-like protease, partial [Infectious bronchitis virus]
+Substance BioActivity: 44 Active, 101 Tested
+AID: 1890
+
+5. Late stage assay provider results from the probe development effort to identify inhibitors of the SARS coronavirus 3C-like Protease (3CLPro): fluorescence-based biochemical dose-response assay for inhibitors of 3CLPro
+Source: The Scripps Research Institute Molecular Screening Center
+Protein Target: 3C-like protease, partial [Infectious bronchitis virus]
+Substance BioActivity: 9 Active, 14 Tested
+AID: 488958
+
+6. Late stage assay provider results from the probe development effort to identify inhibitors of the SARS coronavirus 3C-like Protease (3CLPro): fluorescence-based biochemical assay for inhibitors of 3CLPro
+Source: The Scripps Research Institute Molecular Screening Center
+Protein Target: 3C-like protease, partial [Infectious bronchitis virus]
+Substance BioActivity: 15 Active, 32 Tested
+AID: 488967
+
+7. Late stage assay provider results from the probe development effort to identify inhibitors of the SARS coronavirus 3C-like Protease (3CLPro): fluorescence-based biochemical assay for inhibitors of 3CLPro: Set 2
+Source: The Scripps Research Institute Molecular Screening Center
+Protein Target: 3C-like protease, partial [Infectious bronchitis virus]
+Substance BioActivity: 10 Active, 103 Tested
+AID: 488984
+
+8. Late stage assay provider results from the probe development effort to identify inhibitors of the SARS coronavirus 3C-like Protease (3CLPro): fluorescence-based biochemical dose-response assay for inhibitors of 3CLPro; Set 2
+Source: The Scripps Research Institute Molecular Screening Center
+Protein Target: 3C-like protease, partial [Infectious bronchitis virus]
+Substance BioActivity: 3 Active, 4 Tested
+AID: 488999
+
+9. Late stage assay provider results from the probe development effort to identify inhibitors of the SARS coronavirus 3C-like Protease (3CLPro): fluorescence-based biochemical assay for inhibitors of 3CLPro: Set 3
+Source: The Scripps Research Institute Molecular Screening Center
+Protein Target: 3C-like protease, partial [Infectious bronchitis virus]
+Substance BioActivity: 3 Active, 6 Tested
+AID: 493245
+
+10. Late stage assay provider results from the probe development effort to identify inhibitors of the SARS coronavirus 3C-like Protease (3CLPro): fluorescence-based biochemical dose-response assay for inhibitors of 3CLPro; Set 3
+Source: The Scripps Research Institute Molecular Screening Center
+Protein Target: 3C-like protease, partial [Infectious bronchitis virus]
+Substance BioActivity: 5 Active, 10 Tested
+AID: 588771
+
+11. Late stage assay provider results from the probe development effort to identify inhibitors of the SARS coronavirus 3C-like Protease (3CLPro): fluorescence-based biochemical assay for inhibitors of 3CLPro: Set 4
+Source: The Scripps Research Institute Molecular Screening Center
+Protein Target: 3C-like protease, partial [Infectious bronchitis virus]
+Substance BioActivity: 14 Active, 28 Tested
+AID: 588772
+
+12. Late stage assay provider results from the probe development effort to identify inhibitors of the SARS coronavirus 3C-like Protease (3CLPro): fluorescence-based biochemical dose-response assay for inhibitors of 3CLPro; Set 4
+Source: The Scripps Research Institute Molecular Screening Center
+Protein Target: 3C-like protease, partial [Infectious bronchitis virus]
+Substance BioActivity: 3 Active, 10 Tested
+AID: 588786
+
+13. Late stage assay provider results from the probe development effort to identify inhibitors of the SARS coronavirus 3C-like Protease (3CLPro): fluorescence-based biochemical dose-response assay for inhibitors of 3CLPro; Set 5
+Source: The Scripps Research Institute Molecular Screening Center
+Protein Target: 3C-like protease, partial [Infectious bronchitis virus]
+Substance BioActivity: 1 Tested
+AID: 602486
+
+14. Late stage assay provider results from the probe development effort to identify inhibitors of the SARS coronavirus 3C-like Protease (3CLPro): fluorescence-based biochemical assay for inhibitors of 3CLPro: Set 5
+Source: The Scripps Research Institute Molecular Screening Center
+Protein Target: 3C-like protease, partial [Infectious bronchitis virus]
+Substance BioActivity: 5 Tested
+AID: 602487
