@@ -158,4 +158,96 @@ Re-docked in vina - out.pdbqt. structure is not the same as the one found in the
 Now is time to find a generative process to get up and running. I predict this will prbably take the post time to get meaningful results from, so might aswell start now without the dataset full downloaded.
 
 Re-docked the N3 Ligand in Vina again, but this time using golem and ramping exhaustiveness up to 100, using all 80 cpus. Took about the same time as the workstations ones doing exhautivness 20.
-The new highest docking score is -7.6 kcal/mol. flexible ligands may get this higher because it can fit better into the binding pocket.
+The new highest docking score is -7.6 kcal/mol. flexible ligands may get this higher because it can fit better into the binding pocket. (Now it forms an intra-molecular H-bond with itself.) same overall structure as before.
+
+Going forward:
+	get one of:
+		GENTRL - pretraining now
+		Chemical_VAE - aspuru-guzik-group/chemical_vae
+		GA - aspuru-guzik-group/GA
+		cgvae - should be running from the summer
+
+-Get flex docking working on the receptor to see if I can get a better binding pose going.\
+	-FlexibleResidues menu
+-Automate pipeline for ligand to .pdbqt file for vina?
+	-http://autodock.scripps.edu/faqs-help/how-to/how-to-prepare-a-ligand-file-for-autodock4
+	-python script 'preapre_ligand4.py' apparently can do this, adding hydrogens and everything. rdkit can save as pdb aswell. Should be able to run a nice pipeline from generation al the way through to validation. This way, can dock all of the insilico structures, get their predicted activites aswell as some predicted activites for structures in my dataset and if the overlap is sufficient, combine the datasets by coverting real activity to autodock binding energy then trying to get lower with RL. 
+
+Trying to salvage the cgvae from the summer, repurposed for this. Uses tensorflow so already a little foreign to me. I had the default hidden size set to 2 dimensions which was causing me problems, I don't know if I figured that out in the summer. Upped it to 20, see if I can do it again. Would prefer to have enough data to train using the dataset taht I've got but it might be unreasonable. 
+	-Model is training. Embarassingly slow 2 molecule mini-batches.
+
+Most generative models that support optimization in the latent space do so for properties that are easily computer and tend to be whole-molecule properties. Activity willl no doubt be more difficult - but 
+
+Vina text tutorial, with flex ligands + video script:
+
+Open PyMol
+	open the crystal information file.
+	select the ligand chain and delete, svae only the receptor as a pdb file
+	re-load the .cif file and delete the receptor, keeping only the ligand and save it as a pdb file.
+
+Open AutoDockTools
+	Load molecule with File>Read Molecule (read .pdb file)
+	Add hydrogens (Edit>Hydrogens>Add>Polar_only/All>Okay)
+	View Mol surface (mention binding site)
+
+10 residues selected as binding-site important
+	THR26,LEU27,HIS41,MET49,ASN142,CYS145, HIS163
+	GLU166, HIS172, GLN189
+
+	New grid box completely encasing these residues:
+	center, x=-11.963,y=15.683,z=69.193, spacing 1A,
+	points, x=20, y=24, z=22 (write to a file or just just write them on a notepad)
+
+	Flexible Residues>Choose Torsions in selected residues>Accept defaults.
+
+	Flexible Residues>Output>SaveRigid
+	Flexible Residues>Output>Saveflexible
+
+	deselect/hide receptor
+		delete receptor?
+
+	Load Ligand
+	Ligand>input>open>ligand.pdb>ok
+	
+	Add hydrogens to the ligand
+	edit>hydrogens>add>polar_only/non-polar
+
+	save as another pdb file, with H's
+
+	re-load and it will keep the hydrogens and you can access the torsions tree (builds the tree upon loading and loses it upon adding hydrogens)
+
+	Ligand>TorsionTree>ChooseTorsions>okay
+		-okay by default
+	
+	Ligand>Output>Save As PDBQT
+
+	Close adt.
+
+	set up vina conf file with flex.
+		-coord
+		-paths
+		-output file
+		-exhaustiveness
+		-log
+		-cpus
+	
+	run vina
+	Examine docking score
+	Examine output with pymol
+
+	For the first flexyboy, exhaustivness 8, found a new bottom confirmation at -7.9kcal/mol which is .3kcal/mol lower in energy
+
+	Next flexyboy, ran on golem, exhaustiveness 100. New bottom confirmation at -XXkcal/mol which is .3kcal/mol lower in energy than no flex.
+
+
+
+	
+	
+
+	
+
+
+
+
+
+

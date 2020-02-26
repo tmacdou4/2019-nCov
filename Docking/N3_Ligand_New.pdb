@@ -1,0 +1,191 @@
+REMARK   4 XXXX COMPLIES WITH FORMAT V. 2.0
+ATOM     14  N   ALA C   2     -12.583   6.625  72.374  1.00 41.65      B    N  
+ATOM     15  HN  ALA C   2     -12.943   6.500  73.320  1.00  0.00      B    H  
+ATOM     16  CA  ALA C   2     -13.166   7.625  71.495  1.00 42.30      B    C  
+ATOM     17  HA  ALA C   2     -13.443   7.150  70.525  1.00  0.00      B    H  
+ATOM     18  C   ALA C   2     -12.115   8.750  71.241  1.00 41.96      B    C  
+ATOM     19  O   ALA C   2     -11.466   9.159  72.125  1.00 41.95      B    O  
+ATOM     20  CB  ALA C   2     -14.397   8.218  72.132  1.00 36.98      B    C  
+ATOM     21  HB1 ALA C   2     -15.148   7.414  72.314  1.00  0.00      B    H  
+ATOM     22  HB2 ALA C   2     -14.817   9.059  71.532  1.00  0.00      B    H  
+ATOM     23  HB3 ALA C   2     -14.158   8.787  73.060  1.00  0.00      B    H  
+ATOM     24  N   VAL C   3     -11.943   9.281  69.911  1.00 34.91      B    N  
+ATOM     25  HN  VAL C   3     -12.508   8.923  69.141  1.00  0.00      B    H  
+ATOM     26  CA  VAL C   3     -10.955  10.336  69.666  1.00 36.29      B    C  
+ATOM     27  HA  VAL C   3     -10.361  10.512  70.593  1.00  0.00      B    H  
+ATOM     28  C   VAL C   3     -11.663  11.606  69.273  1.00 40.78      B    C  
+ATOM     29  O   VAL C   3     -12.381  11.617  68.328  1.00 36.69      B    O  
+ATOM     30  CB  VAL C   3     -10.004   9.895  68.515  1.00 37.53      B    C  
+ATOM     31  HB  VAL C   3     -10.638   9.557  67.663  1.00  0.00      B    H  
+ATOM     32  CG1 VAL C   3      -9.130  11.086  68.012  1.00 40.26      B    C  
+ATOM     33 1HG1 VAL C   3      -9.764  11.948  67.698  1.00  0.00      B    H  
+ATOM     34 2HG1 VAL C   3      -8.436  10.770  67.198  1.00  0.00      B    H  
+ATOM     35 3HG1 VAL C   3      -8.374  11.389  68.773  1.00  0.00      B    H  
+ATOM     36  CG2 VAL C   3      -9.116   8.687  68.955  1.00 43.10      B    C  
+ATOM     37 1HG2 VAL C   3      -9.740   7.836  69.314  1.00  0.00      B    H  
+ATOM     38 2HG2 VAL C   3      -8.360   8.990  69.716  1.00  0.00      B    H  
+ATOM     39 3HG2 VAL C   3      -8.422   8.371  68.141  1.00  0.00      B    H  
+ATOM     40  N   LEU C   4     -11.452  12.859  70.085  1.00 37.32      B    N  
+ATOM     41  HN  LEU C   4     -10.835  12.839  70.897  1.00  0.00      B    H  
+ATOM     42  CA  LEU C   4     -12.124  14.096  69.716  1.00 39.95      B    C  
+ATOM     43  HA  LEU C   4     -13.224  13.925  69.653  1.00  0.00      B    H  
+ATOM     44  C   LEU C   4     -11.582  14.561  68.334  1.00 38.38      B    C  
+ATOM     45  O   LEU C   4     -10.411  14.570  68.131  1.00 44.55      B    O  
+ATOM     46  CB  LEU C   4     -11.825  15.155  70.765  1.00 41.97      B    C  
+ATOM     47  HB1 LEU C   4     -10.886  14.911  71.314  1.00  0.00      B    H  
+ATOM     48  HB2 LEU C   4     -11.516  16.111  70.282  1.00  0.00      B    H  
+ATOM     49  CG  LEU C   4     -13.001  15.397  71.764  1.00 45.86      B    C  
+ATOM     50  HG  LEU C   4     -13.683  16.150  71.305  1.00  0.00      B    H  
+ATOM     51  CD1 LEU C   4     -13.834  14.100  72.019  1.00 43.70      B    C  
+ATOM     52 1HD1 LEU C   4     -14.674  14.273  72.732  1.00  0.00      B    H  
+ATOM     53 2HD1 LEU C   4     -13.182  13.262  72.359  1.00  0.00      B    H  
+ATOM     54 3HD1 LEU C   4     -14.201  13.662  71.062  1.00  0.00      B    H  
+ATOM     55  CD2 LEU C   4     -12.487  15.982  73.082  1.00 43.98      B    C  
+ATOM     56 1HD2 LEU C   4     -13.327  16.155  73.795  1.00  0.00      B    H  
+ATOM     57 2HD2 LEU C   4     -11.890  16.909  72.916  1.00  0.00      B    H  
+ATOM     58 3HD2 LEU C   4     -11.689  15.346  73.531  1.00  0.00      B    H  
+TER      59      LEU C   4 
+HETATM    1  O1  02J C   1     -10.048   3.755  74.575  1.00 63.01      B    O  
+HETATM    2  N2  02J C   1     -10.585   4.861  74.114  1.00 56.79      B    N  
+HETATM    3  H2  02J C   1     -10.774   5.694  74.671  1.00  0.00      B    H  
+HETATM    4  C3  02J C   1     -10.848   4.738  72.810  1.00 50.26      B    C  
+HETATM    5  C4  02J C   1     -10.425   3.420  72.447  1.00 54.38      B    C  
+HETATM    6  H4  02J C   1     -10.478   2.947  71.452  1.00  0.00      B    H  
+HETATM    7  C5  02J C   1      -9.924   2.857  73.642  1.00 63.03      B    C  
+HETATM    8  C6  02J C   1      -9.345   1.458  73.806  1.00 64.36      B    C  
+HETATM    9  H61 02J C   1      -9.239   0.688  73.006  1.00  0.00      B    H  
+HETATM   10  H62 02J C   1      -9.922   0.976  74.629  1.00  0.00      B    H  
+HETATM   11  H63 02J C   1      -8.330   1.590  74.249  1.00  0.00      B    H  
+HETATM   12  C41 02J C   1     -11.475   5.798  71.891  1.00 47.56      B    C  
+HETATM   13  O42 02J C   1     -11.062   5.943  70.793  1.00 47.13      B    O  
+HETATM   59  N5  PJE C   5     -12.524  14.987  67.260  1.00 34.60      B    N  
+HETATM   60  H5  PJE C   5     -13.530  14.976  67.427  1.00  0.00      B    H  
+HETATM   61  N6  PJE C   5     -11.238  11.571  63.275  1.00 35.08      B    N  
+HETATM   62  H61 PJE C   5     -11.277  10.559  63.155  1.00  0.00      B    H  
+HETATM   63  H62 PJE C   5     -11.379  11.817  62.295  1.00  0.00      B    H  
+HETATM   64  O7  PJE C   5     -10.354  17.731  67.451  1.00 57.27      B    O  
+HETATM   65  O8  PJE C   5     -13.440  12.730  63.491  1.00 31.54      B    O  
+HETATM   66  H8  PJE C   5     -14.114  13.070  64.068  1.00  0.00      B    H  
+HETATM   67  C19 PJE C   5     -11.993  15.425  65.951  1.00 40.54      B    C  
+HETATM   68  H19 PJE C   5     -10.879  15.435  65.988  1.00  0.00      B    H  
+HETATM   69  C20 PJE C   5     -12.499  16.817  65.647  1.00 36.98      B    C  
+HETATM   70 1H20 PJE C   5     -13.118  17.209  66.488  1.00  0.00      B    H  
+HETATM   71 2H20 PJE C   5     -13.275  16.794  64.847  1.00  0.00      B    H  
+HETATM   72  C21 PJE C   5     -11.365  17.802  65.289  1.00 45.43      B    C  
+HETATM   73 1H21 PJE C   5     -11.762  18.840  65.192  1.00  0.00      B    H  
+HETATM   74 2H21 PJE C   5     -11.016  17.636  64.243  1.00  0.00      B    H  
+HETATM   75  C22 PJE C   5     -10.167  17.764  66.278  1.00 52.38      B    C  
+HETATM   76  C25 PJE C   5     -12.456  14.464  64.858  1.00 30.76      B    C  
+HETATM   77 1H25 PJE C   5     -12.241  14.870  63.842  1.00  0.00      B    H  
+HETATM   78 2H25 PJE C   5     -13.569  14.423  64.797  1.00  0.00      B    H  
+HETATM   79  C26 PJE C   5     -11.827  13.003  65.048  1.00 34.19      B    C  
+HETATM   80  H26 PJE C   5     -11.979  12.675  66.103  1.00  0.00      B    H  
+HETATM   81  C27 PJE C   5     -10.215  13.041  64.725  1.00 40.55      B    C  
+HETATM   82 1H27 PJE C   5      -9.594  12.976  65.649  1.00  0.00      B    H  
+HETATM   83 2H27 PJE C   5      -9.873  14.044  64.379  1.00  0.00      B    H  
+HETATM   84  C28 PJE C   5      -9.925  12.061  63.836  1.00 39.60      B    C  
+HETATM   85 1H28 PJE C   5      -9.205  12.383  63.048  1.00  0.00      B    H  
+HETATM   86 2H28 PJE C   5      -9.303  11.245  64.272  1.00  0.00      B    H  
+HETATM   87  C29 PJE C   5     -12.383  12.148  64.256  1.00 34.70      B    C  
+HETATM   88  H29 PJE C   5     -12.796  11.309  64.863  1.00  0.00      B    H  
+HETATM   89  C   010 C   6      -7.830  17.582  66.759  1.00 63.14      B    C  
+HETATM   90  HC1 010 C   6      -7.143  16.739  66.512  1.00  0.00      B    H  
+HETATM   91  HC2 010 C   6      -8.237  17.169  67.711  1.00  0.00      B    H  
+HETATM   92  O   010 C   6      -8.840  17.782  65.766  1.00 52.13      B    O  
+HETATM   93  C1  010 C   6      -5.739  18.930  67.322  1.00 68.45      B    C  
+HETATM   94  H1  010 C   6      -5.205  17.976  67.468  1.00  0.00      B    H  
+HETATM   95  C2  010 C   6      -5.067  20.138  67.502  1.00 70.02      B    C  
+HETATM   96  H2  010 C   6      -4.002  20.140  67.788  1.00  0.00      B    H  
+HETATM   97  C3  010 C   6      -5.744  21.347  67.320  1.00 58.91      B    C  
+HETATM   98  H3  010 C   6      -5.215  22.304  67.461  1.00  0.00      B    H  
+HETATM   99  C4  010 C   6      -7.085  21.339  66.961  1.00 57.63      B    C  
+HETATM  100  H4  010 C   6      -7.620  22.293  66.820  1.00  0.00      B    H  
+HETATM  101  C5  010 C   6      -7.760  20.134  66.778  1.00 62.65      B    C  
+HETATM  102  H5  010 C   6      -8.825  20.134  66.491  1.00  0.00      B    H  
+HETATM  103  C6  010 C   6      -7.082  18.927  66.959  1.00 66.95      B    C  
+CONECT    1    2
+CONECT    1    7
+CONECT    2    4
+CONECT    2    3
+CONECT    4    5
+CONECT    4   12
+CONECT    5    7
+CONECT    5    6
+CONECT    7    8
+CONECT    8   11
+CONECT    8   10
+CONECT    8    9
+CONECT   12   13
+CONECT   12   14
+CONECT   14   15
+CONECT   16   17
+CONECT   20   23
+CONECT   20   22
+CONECT   20   21
+CONECT   24   25
+CONECT   26   27
+CONECT   30   31
+CONECT   32   35
+CONECT   32   34
+CONECT   32   33
+CONECT   36   39
+CONECT   36   38
+CONECT   36   37
+CONECT   40   41
+CONECT   42   43
+CONECT   44   59
+CONECT   46   48
+CONECT   46   47
+CONECT   49   50
+CONECT   51   54
+CONECT   51   53
+CONECT   51   52
+CONECT   55   58
+CONECT   55   57
+CONECT   55   56
+CONECT   59   67
+CONECT   59   60
+CONECT   61   84
+CONECT   61   87
+CONECT   61   63
+CONECT   61   62
+CONECT   64   75
+CONECT   65   87
+CONECT   65   66
+CONECT   67   69
+CONECT   67   76
+CONECT   67   68
+CONECT   69   72
+CONECT   69   71
+CONECT   69   70
+CONECT   72   75
+CONECT   72   74
+CONECT   72   73
+CONECT   75   92
+CONECT   76   79
+CONECT   76   78
+CONECT   76   77
+CONECT   79   81
+CONECT   79   87
+CONECT   79   80
+CONECT   81   84
+CONECT   81   83
+CONECT   81   82
+CONECT   84   86
+CONECT   84   85
+CONECT   87   88
+CONECT   89   92
+CONECT   89  103
+CONECT   89   91
+CONECT   89   90
+CONECT   93   95
+CONECT   93  103
+CONECT   93   94
+CONECT   95   97
+CONECT   95   96
+CONECT   97   99
+CONECT   97   98
+CONECT   99  101
+CONECT   99  100
+CONECT  101  103
+CONECT  101  102
