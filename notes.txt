@@ -242,8 +242,26 @@ Open AutoDockTools
 
 Return to dataset generation
 
-	
+CGVAE
 
+Downloaded all of the interesting assay and added their chemical compounds to their dataframes (took 5hrs for one of them).
+
+Initial filtering - remove all of the ones marked as inactive?
+
+"PubChem Standard Value" seems to be the column name that we're interested in.
+sars: none
+mers: 4/7
+ns3: half-ish
+hiv: all -2
+ 
+assuming that IC50's were measured in an non-competitive situation with no true enzyme substrate and therefore Ki = IC50
+
+ED50 completely not related
+Inhibition not useful
+
+only keep IC50, Ki, Kd, IC90
+
+with these, across all assays, with acitivities below 1 micromolar, is ~8500 compounds. About 20 compounds have picomolar Ki's
 
 
 
