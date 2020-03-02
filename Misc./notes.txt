@@ -1,0 +1,354 @@
+Coronavirus Competition by Sage Health.
+Objective: Find a candidate drug (ligand) with a high binding affinity with the 2019-COVID main protease. A few studies have shown that HIV antivirals offer promising results, but this is still an open field of discovery. Use machine learning to identify a potential candidate, then use docking software to get the binding affinity between it and the main protease. Write a report that describes your process and results in detail in the form of a jupyter notebook. Finding a new drug or validating an existing drug are both suitable approaches, we will be donating samples of the winning compound to the Wuhan Institute of Virology for further analysis.
+
+Datasets:
+ZINC Database: https://zinc.docking.org/   
+Formatted ZINC Database: https://github.com/molecularsets/moses 
+DrugBank: https://www.drugbank.ca/
+COVID-2019 main protease: https://www.wwpdb.org/pdb?id=pdb_00006lu7  
+ChemBL: https://www.ebi.ac.uk/chembl/
+
+Docking Tools:
+AutoDock VINA: http://vina.scripps.edu/
+PyRX: https://pyrx.sourceforge.io/
+Deep Learning docking: https://github.com/search?q=deep+learning+docking
+
+Deep Reinforcement Learning Networks: 
+https://github.com/XuhanLiu/DrugEx 
+https://github.com/isayev/ReLeaSE 
+https://github.com/insilicomedicine/GENTRL 
+https://github.com/search?q=neural+drug 
+
+
+
+PDB structure code: 6LU7
+	-Unpublished. Coronavirus protease with docked ligand.
+
+Docked N3 ligand. Peptide-like. Smiles:
+CC(C)C[C@H](NC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)c1cc(C)on1)C(C)C)C(=O)N[C@@H](C[C@@H]2CCNC2=O)\C=C/C(=O)OCc3ccccc3
+
+Possible approaches:
+	Homology studies on similar protease proteins, possibly with more ligands bound.
+	3D shape-filling studies on the molecule?
+
+Workflow:
+	-95 pdb entries share 96% homology to the coronavirus structure.
+				99% identity to Bat Coronavirus
+		-PDB for 6LU7, sequence similarity
+	-Search the pubchem bioassay database to get the structures of ligands bound, and their activities
+	-query: "P0C6X7"[UniProt Accession] AND (pcassay_pccompound_active[filt]) AND (pcassay_pccompound_activityconcnanomolar[filt]) 
+	-Ensures active compounds. Maybe be able to design a workflow that can actually grab these structures?
+
+Details of N3 inhibitor:
+	Peptide-like (5/6-mer)
+	Covalent micheal acceptor subject to nuc attack to CYS145 on the protein
+	
+	Interactions mapped out. Not the same as N3 in CovNL63, shown in that paper. a hydrogen bond between the =O of the O-Benzyl group cannot accept a hydrogen bond from a nearby glycine (G142 in the NL63) this means that there’s an additional degree of freedom surrounding that benzyl group, maybe enough room to change to O-Benzyl to a heterocycle and have an h-bond form between it and Threonine 26. Found another possible binding spot with a leucine on the ligand to His41 on the protein.
+
+Found 3 possible new sites for bonds.
+New spots for cyclization within the molecule.
+
+How to move forward
+	-Autodock Vina, re-dock this molecule.
+	-Selective atom changes, re-dock. Try to add 1 stable extra interaction, for slightly higher score. 
+
+	-Try other docking programs (some using ML) to get a better score
+
+	-Do any docking programs model covalent inhibition? very important!
+		-not as important :/
+
+	-Get ligands from other, homologous structures. Might be able to build a small dataset from that.
+
+Vina tutorial!
+https://youtu.be/-GVZP0X0Tg8
+Another!
+https://youtu.be/blxSn3Lhdec
+
+Pubchem assay ID’s for SARS main protease
+search: (SARS coronavirus AND (73745819[ProteinTargetGI])) 
+73745819[ProteinTargetGI] - GI of protein target for 3C-like protease, partial [Infectious bronchitis virus] - 95.25% identity with the structure of 2019-nCov (insilico)
+2GTB, 4MDS, both pdb structures of SARS main protease, latter with non-covalent inhibitors
+
+AID’s for 73745819[ProteinTargetGI] - see file
+
+
+Trying to find more protease inhibitor data.
+
+Downloaded the fasta file of the nCov main protease.
+Blast search finds the exact sequence as a polyprotein (this protein is translated as a large polyprotein, then cleaves itself. There are very many matches and a lot of similarity between them - many different mutants of the SARS coronavirus.
+
+To find more Assays using similar proteins, might be better to search similarity on the PDB. Need to find Various other relevant proteases.
+
+Done:
+SARS - GI73745819
+HIV - GI75593047 - pol polyprotein
+Hep3 NSC - No specific protein target, just searched NS3 in protein target text. Also some west nile virus in there?
+MERS - No specific target, just searched MERS Protease in pubchem search bar. So few results that I can look at them individually. All mention 3CL-Pro by name except the last one (removed manually)
+
+Using NCBI PUG-REST
+https://pubchemdocs.ncbi.nlm.nih.gov/pug-rest-tutorial$_Toc458584429
+
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/assay/aid/XXXX/csv
+to get AID’s
+
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/substance/sid/XXXX/sdf
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/XXXX/sdf
+to get structures
+
+What can I add to this approach that is unique?
+	-Pairwise compound comparison?
+	-Dock all the structures then use docking score as the target?
+		using 2 machine and at 5 mins/compound, we’re looking at 4.34 days to dock 2500 structures.
+	-In-pocket design. Manually? 
+
+TODO going forward:
+	Get more Assay ID’s
+	Get Structures + format them into a good little database (medchem filters?)
+	Re-Dock the N3 ligand.
+	Download a generation framework and get it working - using the database
+
+
+Ok, now searching for “Protease” in protein search. The probably is there is like 50,000+ entries for each virus because there are so many mutants and replicates.
+
+
+More viruses? - Did blast with keeping 5000 sequences this time and still got many different coronaviruses. Interesting, but I want similar viruses that will actually have some assays against them.
+
+Searched for west nile virus: found AID: 577, HTS to identify Inhibitors of West Nile Virus NS2bNS3 Proteinase, with a massive 65K compounds tested. AID: 653 looks to be the follow-up, with fewer tests. Might be better to just grab the compounds from AID 653 because they look to be less shotgun-blasts than the others
+
+Worked on the notebook that will download ready the inhibitor datasets. Uses PUG-REST and python's os import.
+
+Re-docking the N3 ligand in the crystal structure of the protein.
+	First, open the .cif file and save as .pdb. The delete the covalent n3 inhibitor and save the receptor as a .pdb. The do the same and save the ligand as a pdb aswell.
+
+Gridbox around the receptor (might not be perfect):
+
+center: x=-10.963, x=12.683, z=67.193
+num points in x: 28, y=40, z=32, spacing .5
+
+Docking with a completely rigid protein for the first time only.
+
+For future reference, to make felixble ligands, init file will look like:
+
+******************
+
+receptor = your_receptor_noflex.pdbqt
+flex = your_flexes.pdbqt
+ligand = your_ligand.pdbqt
+
+out = out.pdbqt
+
+center_x = 2.9
+center_y = -7.1
+center_z = 0.8
+
+size_x = 12
+size_y = 18
+size_z = 12
+
+exhaustiveness = 8
+
+*************************
+
+following Oleg's tutorial again.
+
+run vina using ./vina --config conf.txt
+
+Re-docked in vina - out.pdbqt. structure is not the same as the one found in the orignal N3 ligand, because this is not a covalent inhibitor. Value to beat now is -7.5 kcal/mol
+
+Now is time to find a generative process to get up and running. I predict this will prbably take the post time to get meaningful results from, so might aswell start now without the dataset full downloaded.
+
+Re-docked the N3 Ligand in Vina again, but this time using golem and ramping exhaustiveness up to 100, using all 80 cpus. Took about the same time as the workstations ones doing exhautivness 20.
+The new highest docking score is -7.6 kcal/mol. flexible ligands may get this higher because it can fit better into the binding pocket. (Now it forms an intra-molecular H-bond with itself.) same overall structure as before.
+
+Going forward:
+	get one of:
+		GENTRL - pretraining now
+		Chemical_VAE - aspuru-guzik-group/chemical_vae
+		GA - aspuru-guzik-group/GA
+		cgvae - should be running from the summer
+
+-Get flex docking working on the receptor to see if I can get a better binding pose going.\
+	-FlexibleResidues menu
+-Automate pipeline for ligand to .pdbqt file for vina?
+	-http://autodock.scripps.edu/faqs-help/how-to/how-to-prepare-a-ligand-file-for-autodock4
+	-python script 'preapre_ligand4.py' apparently can do this, adding hydrogens and everything. rdkit can save as pdb aswell. Should be able to run a nice pipeline from generation al the way through to validation. This way, can dock all of the insilico structures, get their predicted activites aswell as some predicted activites for structures in my dataset and if the overlap is sufficient, combine the datasets by coverting real activity to autodock binding energy then trying to get lower with RL. 
+
+Trying to salvage the cgvae from the summer, repurposed for this. Uses tensorflow so already a little foreign to me. I had the default hidden size set to 2 dimensions which was causing me problems, I don't know if I figured that out in the summer. Upped it to 20, see if I can do it again. Would prefer to have enough data to train using the dataset taht I've got but it might be unreasonable. 
+	-Model is training. Embarassingly slow 2 molecule mini-batches.
+
+Most generative models that support optimization in the latent space do so for properties that are easily computer and tend to be whole-molecule properties. Activity willl no doubt be more difficult - but 
+
+Vina text tutorial, with flex ligands + video script:
+
+Open PyMol
+	open the crystal information file.
+	select the ligand chain and delete, svae only the receptor as a pdb file
+	re-load the .cif file and delete the receptor, keeping only the ligand and save it as a pdb file.
+
+Open AutoDockTools
+	Load molecule with File>Read Molecule (read .pdb file)
+	Add hydrogens (Edit>Hydrogens>Add>Polar_only/All>Okay)
+	View Mol surface (mention binding site)
+
+10 residues selected as binding-site important
+	THR26,LEU27,HIS41,MET49,ASN142,CYS145, HIS163
+	GLU166, HIS172, GLN189
+
+	New grid box completely encasing these residues:
+	center, x=-11.963,y=15.683,z=69.193, spacing 1A,
+	points, x=20, y=24, z=22 (write to a file or just just write them on a notepad)
+
+	Flexible Residues>Choose Torsions in selected residues>Accept defaults.
+
+	Flexible Residues>Output>SaveRigid
+	Flexible Residues>Output>Saveflexible
+
+	deselect/hide receptor
+		delete receptor?
+
+	Load Ligand
+	Ligand>input>open>ligand.pdb>ok
+	
+	Add hydrogens to the ligand
+	edit>hydrogens>add>polar_only/non-polar
+
+	save as another pdb file, with H's
+
+	re-load and it will keep the hydrogens and you can access the torsions tree (builds the tree upon loading and loses it upon adding hydrogens)
+
+	Ligand>TorsionTree>ChooseTorsions>okay
+		-okay by default
+	
+	Ligand>Output>Save As PDBQT
+
+	Close adt.
+
+	set up vina conf file with flex.
+		-coord
+		-paths
+		-output file
+		-exhaustiveness
+		-log
+		-cpus
+	
+	run vina
+	Examine docking score
+	Examine output with pymol
+
+	For the first flexyboy, exhaustivness 8, found a new bottom confirmation at -7.9kcal/mol which is .3kcal/mol lower in energy
+
+	Next flexyboy, ran on golem, exhaustiveness 100. New bottom confirmation at -7.7kcal/mol which is not lower than the non-golem one. hmmm.
+
+
+Return to dataset generation
+
+CGVAE
+
+Downloaded all of the interesting assay and added their chemical compounds to their dataframes (took 5hrs for one of them).
+
+Initial filtering - remove all of the ones marked as inactive?
+
+"PubChem Standard Value" seems to be the column name that we're interested in.
+sars: none
+mers: 4/7
+ns3: half-ish
+hiv: all -2
+ 
+assuming that IC50's were measured in an non-competitive situation with no true enzyme substrate and therefore Ki = IC50
+
+ED50 completely not related
+Inhibition not useful
+
+only keep IC50, Ki, Kd, IC90
+
+with these, across all assays, with acitivities below 1 micromolar, is ~8500 compounds. About 20 compounds have picomolar Ki's
+
+CGVAE was erroring out at some unrecognized points - due to specific examples. First was id 5365
+
+next was 5889 (but after 2 were removed), so OG 5891
+Just realized the idx was probably based on training values alone, which means I have no sweet clue whihc compound caused this and i do know it's a different one than last time. wild.
+
+Dataset works with CGVAE, is able to train and uses the qed values properly. Will train overnight for 10 epochs and save the model. Facing a crossroads with the generation. I only have so much time left and at least a day should be dedicated to writing the report, making a tutorial and making videos. I have to spend at least 1 night doing some docking studies (all nighter??). 
+
+Facing a crossroads - can get one 
+
+Timeline:
+	Fri night - train and generate new structures
+	Sat - dock potential structures
+	sat night - write and dock
+	Sun - write report and make video
+	sun night - write and dock
+	Mon - finish writing and submit
+
+requirements and setup script appear to be working for CGVAE. I should have
+all necessary models ready and training by the end of the day today. 
+	Training and prediction with the dataset, validation and training,
+	then run the insilico compounds on the dataset. Dock the best ones.
+	Run a large subset of zinc compounds on it - Dock the best ones.
+	Test the generated compounds from the VAE - dock the best ones.
+
+	If possible - use the predictor to guild the optimization process 
+		in the latent space - conversion from QED to IC50 (probably
+		should make it log IC50, normalized). Does the CGVAE paper
+		need the real QED values of each generated structure to 
+
+Report time: 
+	Introduction: Disease context, defining the problem, defining the
+		approach (method aswell).
+			-Pymol
+			-Prediction environment
+			-Generation environment
+			-Autodock Vina
+			-Autodock Tools
+
+	Previous work: Target crystallization, insilico's work
+	Target: Protein target, N3 ligand - concept of a covalent vs non-cov
+		inhibitor. Pictures of interactions (pymol)
+	Dataset: Similar organisms, homologous proteins. Pubchem bioassays
+		notebook to fetch and process all of the compounds.
+	Prediction: training a model on the dataset we obtained.
+		(explain what the paper does) Test on insilico's molecules as
+		well as the zinc dataset. - take the highest scoring couple 
+		of insilico molecules and the ~10 highest zinc ones and set
+		them aside as promising.
+	Generation: Using the dataset to generate new molecules in the same
+		distribution. (Optimization in the latent space if possible)
+		Test the generated candidates using the prediciton network.
+	Validation: Several compounds to dock at this point. Start off by
+		re-docking the N3 ligand: Show commands and pymol results.
+		completely different conformation. Dock the other compounds
+		and report their energies
+	Dicussion and Conclusion: Best recommmendation of compounds, best
+		scoring candidates, how did machine learning help us?
+
+compound 44 from the first generation batch is candidate #1
+compound 5 is candidate 2
+compound 9 is candidate 3
+compound 33 is candidate 4
+and so on...
+
+compound 44 (c1) has a minimal affinity of -9.4. already way lower
+compound 5 (c2)- minimal is -7.3
+compound 9 (c3)- minimal is -8.8
+compound 33 (c4)- minimal is -8.4
+compound 38 (c5)- minimal is -7.9
+compound 36 (c6)- -7.6
+compound 34 (c7)- -6.9
+compound 32 (c8)- -9.8
+compound 6 (c9)- -8.2
+
+compound 32, -9.8 is the new champion
+
+epoch 400, training mean MSE: 0.60306316614151, validation mean MSE: 0.5607487559318542, testing mean MSE: 0.6574676632881165
+
+Finishing up: Prediction time for model - Zinc data. Predict using 400 epcoh model. Cannot change its location, so can only use it from where it lies. 
+
+Make predictions in notebooks
+
+Get CGVAE working in notebook
+
+Make vina tutorial with flex docking
+
+Make a RL video on enzyme kinetics
+
+Make install.sh file with all the versions of stuff I'm using

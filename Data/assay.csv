@@ -1,0 +1,10 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Average Inhibition at 100 uM,Standard Deviation,Inhibition at 100 uM [1],Inhibition at 100 uM [2],Inhibition at 100 uM [3]
+RESULT_TYPE,,,,,,,FLOAT,FLOAT,FLOAT,FLOAT,FLOAT
+RESULT_DESCR,,,,,,,Average value of % inhibition at 100 uM compound concentration.,Value of standard deviation of average % inhibition at 100 ?M compound concentration.,The value of % inhibition at 100 uM compound concentration; replicate 1.,The value of % inhibition at 100 uM compound concentration; replicate 2.,The value of % inhibition at 100 uM compound concentration; replicate 3.
+RESULT_UNIT,,,,,,,PERCENT,NONE,PERCENT,PERCENT,PERCENT
+RESULT_ATTR_CONC_MICROMOL,,,,,,,100,,100,100,100
+1,126700220,53488292,Inactive,0,,,-3.9,3.27,-0.5,-2.9,-8.3
+2,126700221,53488289,Inactive,20,,,5.4,3.69,9.9,5.3,0.9
+3,134220254,56592962,Inactive,14,,,3.7,2.18,6.8,1.9,2.4
+4,134220256,56592965,Inactive,17,,,4.5,3.13,8.8,1.5,3
+5,134220258,56592956,Inactive,100,,,26.1,1.12,25.3,25.2,27.6

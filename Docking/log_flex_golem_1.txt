@@ -16,4 +16,19 @@ Reading input ... done.
 Setting up the scoring function ... done.
 Analyzing the binding site ... done.
 Using random seed: -986337304
-Performing search ... 
+Performing search ... done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -7.7      0.000      0.000
+   2         -7.6      1.864      5.293
+   3         -7.6      1.837      6.382
+   4         -7.6      1.943      5.391
+   5         -7.6      2.127      4.861
+   6         -7.6      1.897      4.259
+   7         -7.6      2.310      7.632
+   8         -7.5      1.811      5.479
+   9         -7.4      1.678      5.731
+Writing output ... done.

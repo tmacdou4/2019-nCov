@@ -1,0 +1,5 @@
+docopt==0.6.2
+typing
+planarity
+scikit-learn==0.20.2
+matplotlib

@@ -1,0 +1,13 @@
+receptor = /u/macdougt/Research/2019-nCov/Docking/6LU7_receptor_rigid.pdbqt
+flex = /u/macdougt/Research/2019-nCov/Docking/6LU7_receptor_flex.pdbqt
+ligand = /u/macdougt/Research/2019-nCov/Docking/bp_7.pdbqt
+out = /u/macdougt/Research/2019-nCov/Docking/out_bp_7.pdbqt
+log = /u/macdougt/Research/2019-nCov/Docking/log_bp_7.txt
+center_x = -11.963
+center_y = 15.683
+center_z = 69.193
+size_x = 20
+size_y = 24
+size_z = 22
+exhaustiveness = 80
+cpu = 7
