@@ -13,8 +13,10 @@ The requirements for this project are unfortunately pretty large. And also unfor
 
 I have made an install.sh script that can install all of the dependencies in a fresh conda environment (called nCov_env). So, for the install script to work, you must have conda or miniconda installed. If you already have a environment with most or all of the requirements, go ahead and try the various parts. It might be however advisable to stick to tensorflow 1.XX however as I don't think backwards compatibility is guaranteed between major releases.
 
-## Contents of this repo
-I did most of the work in several separate notebooks, then consolidated the work into the final report notebook. So, there should be no need to dive into the other directories, but if you want to poke around the code or look at specific data files, be my guest!
+## Contents of this repo:
+The report notebook is the main bread and butter of this repository. unfortunately, it is poorly formated on github but might look a lot better cloned and then viewed locally! The photos that aren't embedding properly are found in the Docking/ directory, if you want to see them
+
+but if you want to poke around the code or look at specific data files, be my guest!
 
 Data is stored in /Data (for both dataset generation and the two methods)
 
