@@ -18,8 +18,7 @@ I did most of the work in several separate notebooks, then consolidated the work
 
 3 video tutorials are found in /Videos
     One is an overview of my submission report
-    One is an explanation of IC50
-    One is a tutorial for docking with Vina, pymol and autodock tools (goes with the text description in the report)
+    One is an explanation of IC50 and activity values
 
 Data is stored in /Data (for both dataset generation and the two methods)
 
@@ -34,5 +33,7 @@ Files for the generative deep learning method, The Constrained Graph Variational
 Various papers mentioned and referenced (including for the methods used) are found in /Literature
 
 Various Pymol session are found in /PymolSessions
+
+A nice final Vina tutorial by the original author is available in vina-tutorial/
 
 Other files, notes and rough work can be found in /misc, but these are not strictly important to the narrative of the study and their contents have likely been added to the report notebook anyway.
