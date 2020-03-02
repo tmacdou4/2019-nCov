@@ -18,6 +18,9 @@ The report notebook is the main bread and butter of this repository. unfortunate
 
 but if you want to poke around the code or look at specific data files, be my guest!
 
+Submission overview video (covers the main report notebook)
+https://youtu.be/hNdh8EzalCU
+
 A video of me talking about various different kinds of activity, and a bit on Enzyme Kinetics is found here: https://youtu.be/AbizsxxWcDk
 
 Data is stored in /Data (for both dataset generation and the two methods)
