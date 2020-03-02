@@ -16,10 +16,6 @@ I have made an install.sh script that can install all of the dependencies in a f
 ## Contents of this repo
 I did most of the work in several separate notebooks, then consolidated the work into the final report notebook. So, there should be no need to dive into the other directories, but if you want to poke around the code or look at specific data files, be my guest!
 
-3 video tutorials are found in /Videos
-    One is an overview of my submission report
-    One is an explanation of IC50 and activity values
-
 Data is stored in /Data (for both dataset generation and the two methods)
 
 Intermeadiate notebooks and rough work are stored in /notebooks
